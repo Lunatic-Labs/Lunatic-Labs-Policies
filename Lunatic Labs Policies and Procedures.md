@@ -4,7 +4,7 @@ Lunatic Labs Policies and Procedures
 
 [**Software Development Life Cycle (SDLC)**](#software-development-life-cycle-\(sdlc\))	**[3](#software-development-life-cycle-\(sdlc\))**
 
-[Requirements Management](#requirements-management)	[3](#requirements-management)
+[Requirements Management](#requirements-management)
 
 [Analysis](#analysis)	[3](#analysis)
 
