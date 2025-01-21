@@ -1,4 +1,4 @@
-# Lunatic-Labs-Policies-and-Procedures
+### Lunatic-Labs-Policies-and-Procedures
 
 **Table of Contents**
 
