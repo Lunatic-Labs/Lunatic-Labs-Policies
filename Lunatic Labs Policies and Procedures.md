@@ -4,67 +4,67 @@
 
 [**Software Development Life Cycle (SDLC)**](#software-development-life-cycle-\(sdlc\))	**[3](#software-development-life-cycle-\(sdlc\))**
 
-[Requirements Management](#requirements-management)	[3](#requirements-management)
+   [Requirements Management](#requirements-management)	[3](#requirements-management)
 
-[Analysis](#analysis)	[3](#analysis)
+   [Analysis](#analysis)	[3](#analysis)
 
-[Design](#design)	[3](#design)
+   [Design](#design)	[3](#design)
 
-[Coding and Testing](#coding-and-testing)	[4](#coding-and-testing)
+   [Coding and Testing](#coding-and-testing)	[4](#coding-and-testing)
 
-[Code Coverage](#code-coverage)	[5](#code-coverage)
+   [Code Coverage](#code-coverage)	[5](#code-coverage)
 
-[Deployment](#deployment)	[5](#deployment)
+   [Deployment](#deployment)	[5](#deployment)
 
 [**Project Management using Scrum**](#project-management-using-scrum)	**[6](#project-management-using-scrum)**
 
-[Sprint Planning](#sprint-planning)	[6](#sprint-planning)
+   [Sprint Planning](#sprint-planning)	[6](#sprint-planning)
 
-[Daily stand-ups](#daily-stand-ups)	[6](#daily-stand-ups)
+   [Daily stand-ups](#daily-stand-ups)	[6](#daily-stand-ups)
 
-[Sprint Reviews](#sprint-reviews)	[6](#sprint-reviews)
+   [Sprint Reviews](#sprint-reviews)	[6](#sprint-reviews)
 
-[Sprint Retrospective](#sprint-retrospective)	[7](#sprint-retrospective)
+   [Sprint Retrospective](#sprint-retrospective)	[7](#sprint-retrospective)
 
-[Reporting](#reporting)	[7](#reporting)
+   [Reporting](#reporting)	[7](#reporting)
 
-[Velocity](#velocity)	[7](#velocity)
+   [Velocity](#velocity)	[7](#velocity)
 
-[Burndown chart](#burndown-chart)	[7](#burndown-chart)
+   [Burndown chart](#burndown-chart)	[7](#burndown-chart)
 
-[Github Project Organization](#jira-project-board)	[7](#jira-project-board)
+   [Github Project Organization](#jira-project-board)	[7](#jira-project-board)
 
 [**Code management**](#code-management)	**[9](#code-management)**
 
-[Github](#github)	[9](#github)
+   [Github](#github)	[9](#github)
 
-[Branch Format](#branch-format)	[9](#branch-format)
+   [Branch Format](#branch-format)	[9](#branch-format)
 
-[Creating a Feature Branch](#creating-a-feature-branch)	[9](#creating-a-feature-branch)
+   [Creating a Feature Branch](#creating-a-feature-branch)	[9](#creating-a-feature-branch)
 
-[Committing](#committing)	[9](#committing)
+   [Committing](#committing)	[9](#committing)
 
-[Creating a Pull Request](#creating-a-pull-request)	[10](#creating-a-pull-request)
+   [Creating a Pull Request](#creating-a-pull-request)	[10](#creating-a-pull-request)
 
-[Git Commands](#git-commands)	[10](#git-commands)
+   [Git Commands](#git-commands)	[10](#git-commands)
 
-[Setup & Init](#setup-&-init)	[10](#setup-&-init)
+   [Setup & Init](#setup-&-init)	[10](#setup-&-init)
 
-[Stage and Snapshot](#stage-and-snapshot)	[10](#stage-and-snapshot)
+   [Stage and Snapshot](#stage-and-snapshot)	[10](#stage-and-snapshot)
 
-[Branch & Merge](#branch-&-merge)	[10](#branch-&-merge)
+   [Branch & Merge](#branch-&-merge)	[10](#branch-&-merge)
 
 [**Code Reviews**](#code-reviews)	**[12](#code-reviews)**
 
-[Purpose](#purpose)	[12](#purpose)
+   [Purpose](#purpose)	[12](#purpose)
 
-[When and what to review](#when-and-what-to-review)	[12](#when-and-what-to-review)
+   [When and what to review](#when-and-what-to-review)	[12](#when-and-what-to-review)
 
-[Preparation](#preparation)	[12](#preparation)
+   [Preparation](#preparation)	[12](#preparation)
 
-[Scribe](#scribe)	[12](#scribe)
+   [Scribe](#scribe)	[12](#scribe)
 
-[Format](#format)	[12](#format)
+   [Format](#format)	[12](#format)
 
 [**Time management**](#time-management)	**[14](#time-management)**
 
@@ -72,19 +72,19 @@
 
 [**Roles and Expectations**](#roles-and-expectations)	**[16](#roles-and-expectations)**
 
-# Software Development Life Cycle (SDLC) {#software-development-life-cycle-(sdlc)}
+# Software Development Life Cycle (SDLC)
 
 All SDLCs must address how they will deal with the following phases of software development:  Requirements gathering and management, analysis of the requirements, design of the code that will be written, coding, testing the code, and delivery of the system into production.  Once a system is in production, then the team must integrate how the production system will be maintained into its process.  Lunatic Labs will use an Agile methodology known as Scrum for its SDLC.  
 
-## Requirements Management {#requirements-management}
+## Requirements Management
 
 Scrum uses a backlog to manage requirements.  A User Story represents a requirement in a simple, customer-focused narrative.  User Stories are added to the backlog as new requirements are identified by the customer or the development team.  As User Stories are added to the backlog, they are prioritized by business value or the value they will bring to the development team in learning or building foundational pieces of a system.
 
-## Analysis {#analysis}
+## Analysis
 
 Analysis is somewhat informal in Scrum.   During a [Sprint Planning meeting](#sprint-planning), the backlog is prioritized and user stories are selected to be a part of the sprint.  Once the stories are selected, the team breaks the stories down into smaller tasks needed to complete the User Story.  This analysis step transforms the user story from the user's perspective to a software engineering perspective.
 
-## Design {#design}
+## Design
 
 Scrum advocates “design by discovery” or “emergent design,” but Scrum also assumes a level of experience that most students do not yet possess.  Therefore, Lunatic Labs will rely on more formal design approaches to make the design step more explicit.  Many developers like to use the Unified Modeling Language (UML) to produce diagrams that help to communicate design decisions.  
 
@@ -102,7 +102,7 @@ The following design activities should be incorporated into your process as appr
   * model classes and their interactions in the system  
   * Illustrate how your system interacts with other systems using an Interaction Overview Diagram
 
-## Coding and Testing {#coding-and-testing}
+## Coding and Testing
 
 Automated Unit tests should be written at the same time as the production code, whether you choose to write the tests before or after the production code.
 
@@ -110,17 +110,17 @@ Code should be written in short increments.  If you add small amounts of product
 
 For integration and system testing, code should be deployed into an environment specifically used for testing.  
 
-### Code Coverage {#code-coverage}
+### Code Coverage
 
 For Lunatic Labs, our standard will be to have at least 80% Code Coverage.  The ideal would be to always have 100% code coverage, but this is practically impossible to achieve.  
 
-## Deployment {#deployment}
+## Deployment
 
 TBD.
 
-# Project Management using Scrum {#project-management-using-scrum}
+# Project Management using Scrum
 
-## Sprint Planning {#sprint-planning}
+## Sprint Planning
 
 Per the Scrum Guide, Sprint Planning addresses the following topics (Schwaber and Sutherland):
 
@@ -133,7 +133,7 @@ Per the Scrum Guide, Sprint Planning addresses the following topics (Schwaber an
 
 In addition to these 3 items, the team should set goals for the sprint and address any known obstacles for the sprint.  
 
-## Daily stand-ups {#daily-stand-ups}
+## Daily stand-ups
 
 The daily stand-up should last no more than 15 minutes.  Each team member answers 3 questions:
 
@@ -143,11 +143,11 @@ The daily stand-up should last no more than 15 minutes.  Each team member answer
 
 These meetings should focus on the requirements and the progress made on the task assigned.  The team should not engage in trying to problem solve during the meeting, especially if it is a technical roadblock.  If someone is experiencing a blockage, a subsequent meeting should be scheduled with the people who can help remove the blockage, whether it be a question about how the functionality should work or if they need technical assistance.
 
-## Sprint Reviews  {#sprint-reviews}
+## Sprint Reviews
 
 Typically, a sprint review entails a presentation of the work accomplished during the sprint, but in addition, the team assesses the Product Backlog (see [Github Project Organization](#jira-project-board)) to see if user stories have been added, and if so, to assign story points and prioritize each new story.  The Customer may wish to change the priorities of existing stories so they will be developed sooner.  When this occurs, the user stories should be reordered in the Github Project kanban board to reflect the new prioritization.
 
-## Sprint Retrospective {#sprint-retrospective}
+## Sprint Retrospective
 
 The Sprint Retrospective meeting should occur after the Sprint Review is completed and before the next sprint begins.  While the Sprint Review focuses on the user stories planned and delivered, the Sprint Retrospective focuses on “how the last Sprint went with regards to individuals, interactions, processes, tools, and their Definition of Done. “  (Schwaber and Sutherland)  Typically, the team answers three questions:
 
@@ -159,17 +159,17 @@ Definition of Done is related to how teams manage their project boards.  Refer t
 
 Team members should remember that the purpose of the sprint retrospective is not to assign blame or penalize anyone.  It is focused on improving performance in the future.  
 
-## Reporting {#reporting}
+## Reporting
 
-### Velocity  {#velocity}
+### Velocity
 
 Velocity is a measure of a team’s rate of progress.  It is calculated by summing the number of story points assigned to each user story that the team completed during the iteration.  (Cohn 38\)  
 
-### Burndown chart {#burndown-chart}
+### Burndown chart
 
 TODO
 
-## Jira Project Board {#jira-project-board}
+## Jira Project Board
 
 Teams should use the Github Project feature to communicate the team’s progress.  At a minimum, it should have the following columns: User Stories, Todo, In Progress, In Review, Done.  Here is an example of the columns:  
 ![][image1]
@@ -182,11 +182,11 @@ Once an individual has completed their task, a Pull Request should be created an
 
 # 
 
-# Code management {#code-management}
+# Code management
 
-## Github  {#github}
+## Github
 
-### Branch Format {#branch-format}
+### Branch Format
 
 The project is split up between the prod, test, dev, and various feature branches.
 
@@ -195,7 +195,7 @@ The project is split up between the prod, test, dev, and various feature branche
 * Feature branches are merged to dev for inclusion in other developers’ local development environments.  
 * There will be a feature branch for every issue/ticket and in these branches, we will develop different features and elements that we want to add to the product.
 
-### Creating a Feature Branch {#creating-a-feature-branch}
+### Creating a Feature Branch
 
 A user is able to create a feature branch right from an issue posted as a ticket in the GitHub issues tab.
 
@@ -206,11 +206,11 @@ A user is able to create a feature branch right from an issue posted as a ticket
 * On the specific issue page, you can click on Create a branch under Development on the right-hand margin.  
 * From there you can pick a branch name and the repository destination.
 
-### Committing {#committing}
+### Committing
 
 Developers should commit their code early and often.  Any time a piece of code is completed (i.e., a new function or new variables are added, a new call to another piece of code is added, etc.), that should trigger the developer to commit their code.  
 
-### Creating a Pull Request {#creating-a-pull-request}
+### Creating a Pull Request
 
 Before creating a Pull Request, the developer needs to pull any changes in the dev branch to their local git repository and resolve any merge conflicts.  Once a feature is completed we will create a pull request to review the code before we merge it into the dev branch.
 
@@ -220,14 +220,14 @@ Before creating a Pull Request, the developer needs to pull any changes in the d
 * Use the compare dropdown menu to select the feature branch you'd like to merge and the base dropdown to select the branch you'd like to merge into.  
 * Add a title and description for your pull request before clicking Create pull request. *Note*: It is good practice to move the position of your ticket in the Projects page when its status changes. For example, when you are currently working on it, move it to In Progress, or when you've submitted a pull request for it, move it to In Review.
 
-### Git Commands {#git-commands}
+### Git Commands
 
-#### Setup & Init {#setup-&-init}
+#### Setup & Init
 
 * git init \- initialize an existing directory as a Git repository.  
 * git clone \[url\] \- retrieve an entire repository from a hosted location via URL.
 
-#### Stage and Snapshot {#stage-and-snapshot}
+#### Stage and Snapshot
 
 * git status \- show modified files in working directory, staged for your next commit.  
 * git add \[file\] \- add a file as it looks now to your next commit(stage).  
@@ -236,7 +236,7 @@ Before creating a Pull Request, the developer needs to pull any changes in the d
 * git diff \--staged \- diff of what is staged but not yet committed.  
 * git commit \-m "\[descriptive message\]" \- commit your staged content as a new commit snapshot.
 
-#### Branch & Merge {#branch-&-merge}
+#### Branch & Merge
 
 * git branch \- list your branches, a \* will appear next to the currently active branch.  
 * git branch \[branch-name\] \- create a new branch at the current commit.  
@@ -246,17 +246,17 @@ Before creating a Pull Request, the developer needs to pull any changes in the d
 
 # [6 best practices review PRs Github](https://blog.mergify.com/6-best-practices-to-review-pull-requests-in-github/)
 
-# Code Reviews {#code-reviews}
+# Code Reviews
 
-## Purpose {#purpose}
+## Purpose
 
 Code reviews can service a number of goals but all of them can be grouped into two broad categories. The technical category is to improve the code base. While [Linus’ Law](https://en.wikipedia.org/wiki/Linus%27s_law) (given enough eyeballs, all bugs are shallow) may not be technically true, evidence definitely indicates that reviewing code is much better than the alternative. The second category is about improving the team or the project as a whole. These goals may even be considered incidental benefits. In any case, these benefits accrue because knowledge is distributed among the team, which reduces risk and improves cohesion. 
 
-## When and what to review {#when-and-what-to-review}
+## When and what to review
 
 Each code review should have a well-defined scope. A mature development process typically requires all code changes to be reviewed and approved before they are committed to the main branch of the project source repository. In this circumstance, commits should be kept small enough to allow all changes to be reviewed in one sitting. This may necessitate breaking changes into several steps, which is a symptom of successful development. However, if your development process is not yet mature it is not unreasonable to choose a single module or source file to be reviewed.
 
-## Preparation {#preparation}
+## Preparation
 
 * Select the changes or modules to be reviewed.  
 * Cleanup your code, compile, run tests, etc. *before* the review.  
@@ -264,7 +264,7 @@ Each code review should have a well-defined scope. A mature development process 
 * Choose 1-5 other developers to participate.  
 * Schedule a block of uninterrupted time available for everyone.
 
-## Scribe {#scribe}
+## Scribe
 
 Choose one of the participants to be the official scribe. This provides an artifact to capture the work product and ensures all suggestions are recorded. Remember one of the goals is to improve the development process. It is common during code reviews to recognize a deficiency in a team's process. The scribe should make a note of these so they can be addressed at the next team-wide meeting or by the project lead. If there are many other developers, the scribe may not be an active participant since their time will be filled with making notes.
 
@@ -289,17 +289,17 @@ The author should describe each section of the code in some appropriate order (b
 
 # 
 
-# Time management {#time-management}
+# Time management
 
 Time should be tracked against an issue in Jira.
 
 # 
 
-# Communication expectations {#communication-expectations}
+# Communication expectations
 
 # 
 
-# Roles and Expectations {#roles-and-expectations}
+# Roles and Expectations
 
 Works Cited  
 Milutinovich, Jovana, and Kate Bondareva. “What is UML | Unified Modeling Language.” *UML.org*, https://www.uml.org/what-is-uml.htm. Accessed 3 January 2023\.  
