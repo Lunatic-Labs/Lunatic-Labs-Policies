@@ -49,11 +49,11 @@
 
    [Git Commands](#git-commands)	[10](#git-commands)
 
-   [Setup & Init](#setup-&-init)	[10](#setup-&-init)
+   [Setup & Init](#setup--init) [10](#setup--init)
 
    [Stage and Snapshot](#stage-and-snapshot)	[10](#stage-and-snapshot)
 
-   [Branch & Merge](#branch-&-merge)	[10](#branch-&-merge)
+   [Branch & Merge](#branch--merge) [10](#branch--merge)
 
 [**Code Reviews**](#code-reviews)	**[12](#code-reviews)**
 
