@@ -2,7 +2,7 @@
 
 **Table of Contents**
 
-[**Software Development Life Cycle (SDLC)**](#software-development-life-cycle-\(sdlc\))	**[3](#software-development-life-cycle-\(sdlc\))**
+[**Software Development Life Cycle (SDLC)**](#software-development-life-cycle-(SDLC))	**[3](#software-development-life-cycle-(SDLC))**
 
    [Requirements Management](#requirements-management)	[3](#requirements-management)
 
