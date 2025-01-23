@@ -268,7 +268,7 @@ Each code review should have a well-defined scope. A mature development process 
 
 Choose one of the participants to be the official scribe. This provides an artifact to capture the work product and ensures all suggestions are recorded. Remember one of the goals is to improve the development process. It is common during code reviews to recognize a deficiency in a team's process. The scribe should make a note of these so they can be addressed at the next team-wide meeting or by the project lead. If there are many other developers, the scribe may not be an active participant since their time will be filled with making notes.
 
-## Format {#format}
+## Format
 
 The author of the code will “host” the meeting and begin by describing the code under consideration and formally asking the participants to provide constructive feedback. This is also a good time to emphasize any specific goal(s) this review should concentrate on. The scribe should make a note of any specific goals.
 
