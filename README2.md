@@ -122,7 +122,7 @@
 
 [3\. Procedure](#3.-procedure-2)
 
-## **The leader’s step-by-step guide**(#the-leader’s-step-by-step-guide)
+## [**The leader’s step-by-step guide**]
 
 * Understand and prepare the objectives, clients’ expectations, and timeline  
 * Assess the individual's skill to assign responsibilities  
