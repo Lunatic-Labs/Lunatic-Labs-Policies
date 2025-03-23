@@ -1,4 +1,4 @@
-Lunatic Labs Policies and Procedures
+# Lunatic Labs Policies and Procedures
 
 **Table of Contents**
 
@@ -6,21 +6,21 @@ Lunatic Labs Policies and Procedures
 
 [**The developer’s step-by-step guide**](#the-developer’s-step-by-step-guide)
 
-[The start of the project](#the-start-of-the-project)
+[The start of the project](#the-start-of-the-project) 
 
 [Working on Tasks](#working-on-tasks)
+ 
+[Collaborate with the Team](#collaborate-with-the-team) 
 
-[Collaborate with the Team](#collaborate-with-the-team)
+[**Communication expectations**](#communication-expectations) 
 
-[**Communication expectations**](#communication-expectations)
+[**Roles & Expectations**](#roles-&-expectations) 
 
-[**Roles & Expectations**](#roles-&-expectations)
-
-[Junior Developer](#junior-developer)
+[Junior Developer](#junior-developer) 
 
 [Developer I](#developer-i)
 
-[Developer II](#developer-ii)
+[Developer II](#developer-ii) 
 
 [Lead Software Developer](#lead-software-developer)
 
