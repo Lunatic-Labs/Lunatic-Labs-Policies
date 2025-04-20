@@ -4,9 +4,9 @@ Lunatic Labs Policies and Procedures
 
 [**Getting Started	4**](#getting-started)
 
-[**The Leader’s Step-by-Step Guide	4**](#the-leader’s-step-by-step-guide)
+[**The Leader’s Step-by-Step Guide	4**](#the-leaders-step-by-step-guide)
 
-[**The Developer’s Step-by-Step Guide	4**](#the-developer’s-step-by-step-guide)
+[**The Developer’s Step-by-Step Guide	4**](#the-developers-step-by-step-guide)
 
 [The Start of the Project	5](#the-start-of-the-project)
 
@@ -16,7 +16,7 @@ Lunatic Labs Policies and Procedures
 
 [**Communication expectations	6**](#communication-expectations)
 
-[**Roles & Expectations	7**](#roles-&-expectations)
+[**Roles & Expectations	7**](#roles-expectations)
 
 [Junior Developer	7](#junior-developer)
 
@@ -36,135 +36,135 @@ Lunatic Labs Policies and Procedures
 
 [**Time Management	10**](#time-management)
 
-[1\. Purpose	10](#1.-purpose-1)
+[1\. Purpose	10](#1-purpose-1)
 
-[2\. Scope	10](#2.-scope)
+[2\. Scope	10](#2-scope)
 
-[3\. Responsibilities	11](#3.-responsibilities)
+[3\. Responsibilities	11](#3-responsibilities)
 
-[4\. Workload Requirements	11](#4.-workload-requirements)
+[4\. Workload Requirements	11](#4-workload-requirements)
 
-[5\. Weekly Time Management	11](#5.-weekly-time-management)
+[5\. Weekly Time Management	11](#5-weekly-time-management)
 
 [**Logging Time on Jira	12**](#logging-time-on-jira)
 
 [**Sprint Planning	14**](#sprint-planning)
 
-[1\. Purpose	14](#1.-purpose-2)
+[1\. Purpose	14](#1-purpose-2)
 
-[2\. Scope	14](#2.-scope-1)
+[2\. Scope	14](#2-scope-1)
 
-[3\. Procedure	14](#3.-procedure)
+[3\. Procedure	14](#3-procedure)
 
 [**Sprint Retrospective	16**](#sprint-retrospective)
 
-[1\. Purpose	16](#1.-purpose-3)
+[1\. Purpose	16](#1-purpose-3)
 
-[2\. Scope	16](#2.-scope-2)
+[2\. Scope	16](#2-scope-2)
 
-[3\. Responsibilities	16](#3.-responsibilities-1)
+[3\. Responsibilities	16](#3-responsibilities-1)
 
-[4\. Procedure	16](#4.-procedure)
+[4\. Procedure	16](#4-procedure)
 
 [**GitHub Version Control	17**](#github-version-control)
 
-[1\. Purpose	17](#1.-purpose-4)
+[1\. Purpose	17](#1-purpose-4)
 
-[2\. Scope	17](#2.-scope-3)
+[2\. Scope	17](#2-scope-3)
 
-[3\. Responsibilities	17](#3.-responsibilities-2)
+[3\. Responsibilities	17](#3-responsibilities-2)
 
-[4\. Procedure	18](#4.-procedure-1)
+[4\. Procedure	18](#4-procedure-1)
 
-[5\. References	22](#5.-references)
+[5\. References	22](#5-references)
 
-[6\. Review & Revision	23](#6.-review-&-revision)
+[6\. Review & Revision	23](#6-review-revision)
 
 [**Code Review Process	23**](#code-review-process)
 
-[1\. Purpose	23](#1.-purpose-5)
+[1\. Purpose	23](#1-purpose-5)
 
-[2\. Scope	23](#2.-scope-4)
+[2\. Scope	23](#2-scope-4)
 
-[3\. Responsibilities	24](#3.-responsibilities-3)
+[3\. Responsibilities	24](#3-responsibilities-3)
 
-[4\. Procedure	24](#4.-procedure-2)
+[4\. Procedure	24](#4-procedure-2)
 
-[5\. Review and Revision	28](#5.-review-and-revision)
+[5\. Review and Revision	28](#5-review-and-revision)
 
-[6\. Final Approval	29](#6.-final-approval)
+[6\. Final Approval	29](#6-final-approval)
 
-[7\. Merge the Code	30](#7.-merge-the-code)
+[7\. Merge the Code	30](#7-merge-the-code)
 
-[8\. Post-Merge Activities	30](#8.-post-merge-activities)
+[8\. Post-Merge Activities	30](#8-post-merge-activities)
 
 [**Client Meeting Step by Step	30**](#client-meeting-step-by-step)
 
-[1\. Purpose	30](#1.-purpose-6)
+[1\. Purpose	30](#1-purpose-6)
 
-[2\. Scope	31](#2.-scope-5)
+[2\. Scope	31](#2-scope-5)
 
 [**Documentation Management	32**](#documentation-management)
 
-[1\. Purpose	32](#1.-purpose-7)
+[1\. Purpose	32](#1-purpose-7)
 
-[2\. Scope	32](#2.-scope-6)
+[2\. Scope	32](#2-scope-6)
 
-[3\. Types of Documents	33](#3.-types-of-documents)
+[3\. Types of Documents	33](#3-types-of-documents)
 
-[4\. Design Documentation	35](#4.-design-documentation)
+[4\. Design Documentation	35](#4-design-documentation)
 
 [**Automated Testing Process	36**](#automated-testing-process)
 
-[1\. Purpose	36](#1.-purpose-8)
+[1\. Purpose	36](#1-purpose-8)
 
-[2\. Scope	37](#2.-scope-7)
+[2\. Scope	37](#2-scope-7)
 
-[3\. Procedure	37](#3.-procedure-1)
+[3\. Procedure	37](#3-procedure-1)
 
 [**Deployment	38**](#deployment)
 
-[1\. Purpose	38](#1.-purpose-9)
+[1\. Purpose	38](#1-purpose-9)
 
-[2\. Scope	38](#2.-scope-8)
+[2\. Scope	38](#2-scope-8)
 
-[3\. Procedure	38](#3.-procedure-2)
+[3\. Procedure	38](#3-procedure-2)
 
 [**Lunatic Labs Teams	39**](#lunatic-labs-teams)
 
-[SkillBuilder/Rubricapp	39](#skillbuilder/rubricapp)
+[SkillBuilder/Rubricapp	39](#skillbuilder-rubricapp)
 
-[L.U.K.E.	40](#l.u.k.e.)
+[L.U.K.E.	40](#luke)
 
 [Wind Tunnel	40](#wind-tunnel)
 
 [Pointless	41](#pointless)
 
-[Ella’s House	41](#ella’s-house)
+[Ella’s House	41](#ellas-house)
 
 [**Technical Review	42**](#technical-review)
 
-[1\. Purpose	42](#1.-purpose-10)
+[1\. Purpose	42](#1-purpose-10)
 
-[2\. Scope	42](#2.-scope-9)
+[2\. Scope	42](#2-scope-9)
 
-[3\. Responsibilities	42](#3.-responsibilities-4)
+[3\. Responsibilities	42](#3-responsibilities-4)
 
 [Audience	42](#heading=h.6p2sttqy2wnd)
 
 [**Usage of AI	42**](#usage-of-ai)
 
-[1\. Purpose	43](#1.-purpose-11)
+[1\. Purpose	43](#1-purpose-11)
 
-[2\. Scope	43](#2.-scope-10)
+[2\. Scope	43](#2-scope-10)
 
-[3\. Procedure:	43](#3.-procedure:)
+[3\. Procedure:	43](#3-procedure:)
 
 [**Additional Resources	43**](#additional-resources)
 
 ## 
 
-## **Getting Started** {#getting-started}
+## **Getting Started** 
 
 Students at Lunatic Labs will learn fundamental programming concepts, version control, Agile methodologies, documentation management, and software development best practices. By the end of the course, students will be proficient in:
 
@@ -174,7 +174,7 @@ Students at Lunatic Labs will learn fundamental programming concepts, version co
 * Conducting and receiving code reviews.  
 * Implementing automated testing.
 
-## **The Leader’s Step-by-Step Guide** {#the-leader’s-step-by-step-guide}
+## **The Leader’s Step-by-Step Guide**
 
 * Understand and prepare the objectives, clients’ expectations, and timeline  
 * Assess the individual's skill to assign responsibilities  
@@ -186,7 +186,7 @@ Students at Lunatic Labs will learn fundamental programming concepts, version co
   * Begin a sprint and create tasks (ensure tasks are not so big that they are not completed by the end of the sprint)   
   * A team leader should be able to ensure that everyone feels comfortable in their skills and the jobs they can do.
 
-## **The Developer’s Step-by-Step Guide** {#the-developer’s-step-by-step-guide}
+## **The Developer’s Step-by-Step Guide** 
 
 * Review the project’s goals and expected outcomes as explained by the team leader.  
   * Ask questions during the first meeting if anything is unclear.  
@@ -196,20 +196,20 @@ Students at Lunatic Labs will learn fundamental programming concepts, version co
   * Clone the project repository from GitHub and familiarize yourself with the code structure.  
     
 
-### **The Start of the Project** {#the-start-of-the-project}
+### **The Start of the Project** 
 
 * To get up to speed, you can use the provided learning resources (e.g., GitHub training and programming language tutorials).  
   * Focus on the project's tools and languages, such as C++, Python, or Docker.  
   * Learn how to create branches, commit changes, and open pull requests on GitHub.  
   * Understand basic Git commands like git pull, git commit, and git push.
 
-### **Working on Tasks** {#working-on-tasks}
+### **Working on Tasks**
 
 * Look for tasks assigned to you in Jira.  
   * If a task seems too large or complex, discuss it with your team leader to break it into smaller steps.  
   * Focus on completing one small piece at a time, such as fixing a bug or creating a single function.
 
-### **Collaborate with the Team** {#collaborate-with-the-team}
+### **Collaborate with the Team** 
 
 * **Ask for Help**:  
   * If you’re stuck, ask for guidance from a senior team member or your leader.  
@@ -231,7 +231,7 @@ Students at Lunatic Labs will learn fundamental programming concepts, version co
   * Offer help if you notice others struggling with their tasks.
 
 
-## **Communication expectations** {#communication-expectations}
+## **Communication expectations** 
 
 All team members must promptly and professionally communicate issues, questions, and announcements through Slack, Jira, GitHub logs, and emails.
 
@@ -267,7 +267,7 @@ All team members must promptly and professionally communicate issues, questions,
 * Check emails at least once or twice daily, including on weekends.  
 * Professors and teammates may need urgent responses.
 
-## **Roles & Expectations** {#roles-&-expectations}
+## **Roles & Expectations** 
 
 The roles in Lunatic Labs include Junior Developer, Software Developer I/II, Lead Software Developer, Software Project Manager, and Software Architect. 
 
@@ -278,7 +278,7 @@ Students who are employed in Lunatic Labs can go up the hierarchy and get promot
 * SENG 4233 (Software Studio III)  
 * SENG 4243 (Software Studio IV)
 
-### **Junior Developer** {#junior-developer}
+### **Junior Developer**
 
 * Someone who is enrolled in SENG 3233 (Software Studio I).   
 * Junior developers will gain introductory experience in various application domains, tool stacks, and platforms.   
@@ -291,7 +291,7 @@ Students who are employed in Lunatic Labs can go up the hierarchy and get promot
   * Basic programming
 
 
-### **Developer I** {#developer-i}
+### **Developer I** 
 
 * Someone who is enrolled in SENG 3243 (Software Studio II).  
 * Each week, they will be assigned at least one task by their Team leader to accomplish.  
@@ -304,7 +304,7 @@ Students who are employed in Lunatic Labs can go up the hierarchy and get promot
   * Assist in software architecture and infrastructure
 
 
-### **Developer II** {#developer-ii}
+### **Developer II** 
 
 * Someone who is enrolled in SENG 4233 (Software Studio III).  
 * Developers II typically build off of the same skills as Developer I, but they have more experience and skill expertise in specific areas of software development.  
@@ -319,7 +319,7 @@ Students who are employed in Lunatic Labs can go up the hierarchy and get promot
   * Additional responsibilities from a project management perspective
 
 
-### **Lead Software Developer** {#lead-software-developer}
+### **Lead Software Developer** 
 
 * A potential path for a student enrolled in SENG 4243 (Software Studio IV).  
 * Lead Software developers lead the developers I and II toward the completion of their projects.  
@@ -338,7 +338,7 @@ Students who are employed in Lunatic Labs can go up the hierarchy and get promot
   * Implementing verification and validation approaches, including Continuous Integration and Delivery frameworks  
   * Responsibilities from a project management perspective
 
-### **Software Project Manager** {#software-project-manager}
+### **Software Project Manager** 
 
 * A potential path for a student enrolled in SENG 4243 (Software Studio IV).  
 * Software project managers lead the development of Is and IIs toward the completion of their project, and they typically work on the Jira/Kanban board and backlog.  
@@ -358,15 +358,15 @@ Before taking Software Studio I, students are required to take an introductory c
   * Software testing and verification  
   * Industry-standard tools that support software.
 
-## **Starting a Jira setup** {#starting-a-jira-setup}
+## **Starting a Jira setup** 
 
-### **1\. Purpose** {#1.-purpose}
+### **1\. Purpose**
 
 This SOP aims to outline the procedures for setting up Jira, which ensures efficient project management, issue tracking, task organization, collaboration, and customization of workflows. 
 
 This platform is important for all software developers to create their projects. 
 
-### **2\. Procedure** {#2.-procedure}
+### **2\. Procedure** 
 
 * Go to [https://www.atlassian.com/software/](https://www.atlassian.com/software/)   
 * Sign in using your school email address and set up your account  
@@ -381,27 +381,27 @@ This platform is important for all software developers to create their projects.
 * Once your project is created, invite members by entering their email addresses.  
 * Familiarize yourself with the board layout. Common columns include Backlog, In Progress, Review, and Done.
 
-## **Time Management** {#time-management}
+## **Time Management** 
 
-### **1\. Purpose** {#1.-purpose-1}
+### **1\. Purpose**
 
 Time management aims to establish clear guidelines for time management, tracking, and accountability at Lunatic Labs. 
 
 Proper time management ensures efficient project execution, workload distribution, and value-driven contributions to the team.
 
-### **2\. Scope** {#2.-scope}
+### **2\. Scope** 
 
 This SOP applies to all team members at Lunatic Labs, including those enrolled in single or multiple software studio courses.
 
 Time management at Lunatic Labs includes logging in hours, using time effectively and productively, and managing that time throughout the weekly sprint. 
 
-### **3\. Responsibilities** {#3.-responsibilities}
+### **3\. Responsibilities**
 
 * **All Team Members:** Log time accurately, manage workload effectively, and contribute meaningfully to the project. They are required to log the time they spend working on deliverables such as user stories, bugs, features, improvements, and other project-related tasks.   
 * **Project Leads & Managers:** Monitor time logs, ensure balanced workload distribution, and provide support on time allocation.  
 * **Instructors & Supervisors:** Evaluate contributions based on impact rather than hours worked.
 
-### **4\. Workload Requirements** {#4.-workload-requirements}
+### **4\. Workload Requirements** 
 
 * Each employee working at Lunatic Labs must be able to work about 7 hours every week  
   * A total of 98 to 105 hours by the end of the semester.   
@@ -413,7 +413,7 @@ Time management at Lunatic Labs includes logging in hours, using time effectivel
 * The time spent should equate to the value of productivity, and the contribution you are giving is important. 
 
 
-### **5\. Weekly Time Management** {#5.-weekly-time-management}
+### **5\. Weekly Time Management** 
 
 * Mandatory “company meetings” will occur during the normal meeting times of the primary section of the course.   
 * Team members will also need to make time throughout the week, from the beginning to the end of the sprint, to make their contributions.   
@@ -425,7 +425,7 @@ Time management at Lunatic Labs includes logging in hours, using time effectivel
 
 ### 
 
-## **Logging Time on Jira** {#logging-time-on-jira}
+## **Logging Time on Jira**
 
 1. Go to Apps \-\> Timesheet  
    ![][image6]  
@@ -454,9 +454,9 @@ Time management at Lunatic Labs includes logging in hours, using time effectivel
 
    ![][image10]
 
-## **Sprint Planning** {#sprint-planning}
+## **Sprint Planning** 
 
-### **1\. Purpose** {#1.-purpose-2}
+### **1\. Purpose** 
 
 Sprint planning aims to ensure that the development team is aligned on the work to be completed during an upcoming sprint. This meeting sets clear priorities, assigns tasks, and defines achievable goals within a set timeframe. 
 
@@ -468,7 +468,7 @@ The key objectives include:
 * Assigning tasks to team members.  
 * Ensuring that the workload is realistic and achievable within the sprint duration.
 
-### **2\. Scope** {#2.-scope-1}
+### **2\. Scope**
 
 This process applies to all development teams following an Agile workflow and includes:
 
@@ -480,7 +480,7 @@ This process applies to all development teams following an Agile workflow and in
 
 This SOP ensures that sprint planning is structured and results in a clear, actionable plan, improving productivity and collaboration.
 
-### **3\. Procedure** {#3.-procedure}
+### **3\. Procedure**
 
 Here are the specific steps involved in planning a sprint for each week:
 
@@ -511,20 +511,20 @@ Here are the specific steps involved in planning a sprint for each week:
    * Once all tasks are assigned and prioritized, officially start the new sprint.  
    * Use Jira to track progress throughout the week.
 
-## **Sprint Retrospective** {#sprint-retrospective}
+## **Sprint Retrospective** 
 
-### **1\. Purpose** {#1.-purpose-3}
+### **1\. Purpose** 
 
 The Sprint Retrospective meeting should occur after the Sprint Review is completed and before the next sprint begins.  
 
-### **2\. Scope** {#2.-scope-2}
+### **2\. Scope** 
 
 This procedure applies to all development teams within Lunatic Labs who follow an Agile or Scrum-based workflow. Participation is mandatory for:
 
 * Team Leads, who facilitate the retrospective session.  
 * All Team Members must actively contribute to the discussion and feedback process.
 
-### **3\. Responsibilities**  {#3.-responsibilities-1}
+### **3\. Responsibilities**  
 
 The process applies to all development teams, involving:
 
@@ -537,7 +537,7 @@ The process applies to all development teams, involving:
   * Provide feedback regarding the past sprint  
   * Collaborate on identifying improvements
 
-### **4\. Procedure** {#4.-procedure}
+### **4\. Procedure** 
 
 **4.1 Timing**  
 Usually, start the sprint retrospective after taking a screenshot of the Jira board and right before starting the next sprint.
@@ -560,19 +560,19 @@ Typically, the team lead asks and all team members answer three questions:
 * Write down tasks for implementation in the next sprint.  
 * Review any previous sprint’s retrospective outcomes to track progress.
 
-## **GitHub Version Control** {#github-version-control}
+## **GitHub Version Control**
 
-### **1\. Purpose** {#1.-purpose-4}
+### **1\. Purpose** 
 
 This Standard Operating Procedure (SOP) defines the GitHub workflow for managing version control, code collaboration, and repository best practices. 
 
 It ensures that all developers follow a standardized process for maintaining project integrity, tracking changes, and collaborating efficiently.
 
-### **2\. Scope** {#2.-scope-3}
+### **2\. Scope** 
 
 This SOP applies to all team members contributing to a project via GitHub. It includes guidelines on repository management, branching strategies, pull requests, code reviews, and issue tracking.
 
-### **3\. Responsibilities** {#3.-responsibilities-2}
+### **3\. Responsibilities** 
 
 * **Team Members & Developers**:  
   * Follow the GitHub workflow, including branching and pull request procedures.  
@@ -587,7 +587,7 @@ This SOP applies to all team members contributing to a project via GitHub. It in
 
  
 
-### **4\.** **Procedure** {#4.-procedure-1}
+### **4\.** **Procedure** 
 
 **4.1 Setting Up GitHub Access**
 
@@ -706,7 +706,7 @@ To fetch the latest changes from the remote repository and merge them into your 
 * **Document Discussions in Issues & PRs:**  
   * Keep project updates and decisions documented for future reference.
 
-### **5\. References** {#5.-references}
+### **5\. References** 
 
 * [GitHub Documentation](https://docs.github.com/)  
 * [6 best practices review PRs on Github](https://blog.mergify.com/6-best-practices-to-review-pull-requests-in-github/)
@@ -741,13 +741,13 @@ To fetch the latest changes from the remote repository and merge them into your 
 * git fetch \- fetches the latest changes and most recent updates from a remote repository, but does not merge into your current local branch.   
 * git rebase or git pull —rebase \- rewrites and tidies your branch history, using the current HEAD commit of the base branch as its base
 
-### **6\. Review & Revision** {#6.-review-&-revision}
+### **6\. Review & Revision** 
 
 This SOP will be reviewed every semester to ensure alignment with best practices and project requirements. Any updates should be added before each semester so that every new team or student can easily follow the steps.
 
-## **Code Review Process** {#code-review-process}
+## **Code Review Process** 
 
-### **1\. Purpose** {#1.-purpose-5}
+### **1\. Purpose** 
 
 Code reviews aim to ensure code quality, maintainability, and adherence to best practices. Code reviews help identify potential bugs, improve readability, and foster collaboration among team members. The key objectives include:
 
@@ -757,7 +757,7 @@ Code reviews aim to ensure code quality, maintainability, and adherence to best 
 * Facilitating knowledge sharing among developers.  
 * Preventing technical debt by enforcing clean and efficient code.
 
-### **2\. Scope** {#2.-scope-4}
+### **2\. Scope** 
 
 This SOP ensures that all team members have the tools and knowledge to use GitHub efficiently, maintaining a smooth and structured development process.
 
@@ -769,7 +769,7 @@ This process applies to all code changes that require integration into the main 
 * Providing constructive feedback to developers.  
 * Running automated tests to validate changes.
 
-### **3\. Responsibilities** {#3.-responsibilities-3}
+### **3\. Responsibilities** 
 
 **Developers:**
 
@@ -792,7 +792,7 @@ This process applies to all code changes that require integration into the main 
 
 ####  
 
-### **4\. Procedure** {#4.-procedure-2}
+### **4\. Procedure**
 
 **4.1 Prepare Your Code for Review**
 
@@ -902,7 +902,7 @@ Benefits:
 * **Reflect and Document:**  
   Record lessons learned and update this SOP if necessary for continuous improvement.
 
-### **5\. Review and Revision** {#5.-review-and-revision}
+### **5\. Review and Revision** 
 
 This SOP shall be reviewed annually or as needed to reflect changes in processes, tools, or team structures. 
 
@@ -915,7 +915,7 @@ All updates must be documented in the revision history and approved by the desig
 * **Update the PR:**  
   Push new commits to the branch to address the review comments.![][image30]
 
-### **6\. Final Approval** {#6.-final-approval}
+### **6\. Final Approval** 
 
 * **Re-Review:**  
   The reviewer(s) check the updated code to ensure that all concerns have been addressed.  
@@ -924,7 +924,7 @@ All updates must be documented in the revision history and approved by the desig
 
 Approvals are indicated by the check mark
 
-### **7\. Merge the Code** {#7.-merge-the-code}
+### **7\. Merge the Code** 
 
 * **Merge Strategy:**  
   Use the defined merge method (e.g., merge commit, rebase, or squash) as per your team’s process.  
@@ -939,16 +939,16 @@ Approvals are indicated by the check mark
 
 Confirmation that a PR has been merged and closed
 
-### **8\. Post-Merge Activities** {#8.-post-merge-activities}
+### **8\. Post-Merge Activities** 
 
 * **Monitor Deployment:**  
   Keep an eye on the build or deployment process to catch any issues.  
 * **Reflect:**  
   Document lessons learned during the review process for future improvements.
 
-## **Client Meeting Step by Step** {#client-meeting-step-by-step}
+## **Client Meeting Step by Step** 
 
-### **1\. Purpose** {#1.-purpose-6}
+### **1\. Purpose** 
 
 The purpose of a client meeting is to establish clear communication between the development team and the client. 
 
@@ -960,7 +960,7 @@ These meetings ensure that project objectives, requirements, and expectations ar
 * Aligning project goals with client expectations.  
 * Ensuring transparency and fostering trust between both parties.
 
-### **2\. Scope** {#2.-scope-5}
+### **2\. Scope** 
 
 This process applies to all client-facing interactions, including:
 
@@ -995,15 +995,15 @@ This process applies to all client-facing interactions, including:
 *  If something wasn’t clear during the meeting, ask your team lead or the client via email or Slack.  
 * Begin or continue work on tasks discussed in the meeting. Prioritize any that the client emphasized.
 
-## **Documentation Management** {#documentation-management}
+## **Documentation Management**
 
-### **1\. Purpose** {#1.-purpose-7}
+### **1\. Purpose** 
 
 The purpose of documentation management is to properly and efficiently capture, store, organize, and manage physical and digital documents within any organization you are in charge of or you are working for. 
 
 Many Document Management Software programs exist in Lunatic Labs. 
 
-### **2\. Scope** {#2.-scope-6}
+### **2\. Scope** 
 
 According to [The Association for Intelligent Information Management (AIIM)](https://www.aiim.org/what-is-document-imaging), some of the key features in document management include:
 
@@ -1022,7 +1022,7 @@ For every relevant document (such as README files and our Standard Operating Pro
 
 This strategy ensures that all important documents are consistently maintained, traceable, and readily available, enhancing both collaboration and accountability across the team.
 
-### **3\. Types of Documents** {#3.-types-of-documents}
+### **3\. Types of Documents** 
 
 **3.1 Document Creation**
 
@@ -1132,7 +1132,7 @@ Miscellaneous
 
 ### 
 
-### **4\. Design Documentation** {#4.-design-documentation}
+### **4\. Design Documentation**
 
 Design Documentation will be different for every team because each team will be working on something different, with different scopes and end goals.
 
@@ -1169,17 +1169,17 @@ However, according to [Atlassian](https://www.atlassian.com/work-management/know
 * Gather feedback, address concerns and suggestions, and update the design based on the feedback  
 * Ensure everyone, including stakeholders, agrees before finalizing the document
 
-## **Automated Testing Process** {#automated-testing-process}
+## **Automated Testing Process** 
 
-### **1\. Purpose**  {#1.-purpose-8}
+### **1\. Purpose** 
 
 The purpose of automated testing is to ensure software quality, efficiency, and reliability by reducing human error and speeding up the testing process.
 
-### **2\. Scope**  {#2.-scope-7}
+### **2\. Scope**
 
 This procedure applies to all software development team members and leaders who write, execute, and maintain automated test scripts for the organization's applications.
 
-### **3\. Procedure** {#3.-procedure-1}
+### **3\. Procedure** 
 
 **3.1 Identify the requirements, objectives, and test scope**
 
@@ -1224,15 +1224,15 @@ This procedure applies to all software development team members and leaders who 
 * Define a maintenance plan for updating test cases as the application evolves.  
 * Continue/repeat until all the tests output what you desire.
 
-## **Deployment** {#deployment}
+## **Deployment** 
 
-### **1\. Purpose** {#1.-purpose-9}
+### **1\. Purpose** 
 
 The purpose of deployment in software is to make it available to all users and other programs.  
    
 Typically, individual members of a project team will ensure that their code works and then push it to GitHub to integrate it with the rest of the software. 
 
-### **2\. Scope** {#2.-scope-8}
+### **2\. Scope** 
 
 The team would then ensure that everything works together and iron out what doesn’t.
 
@@ -1240,7 +1240,7 @@ Once the code is built and complete, one member of the team will create a copy t
 
 For example, the L.U.K.E. team deployed by zipping up the code used in the L.U.K.E. Kiosk, copying it to a flash drive, and then plugging that drive into the physical Kiosk to update it.
 
-### **3\. Procedure** {#3.-procedure-2}
+### **3\. Procedure** 
 
 Each member of a team should make a deployment checklist depending on their project’s guidelines. 
 
@@ -1267,11 +1267,11 @@ It allows administrators to:
 
 ## 
 
-## **Lunatic Labs Teams** {#lunatic-labs-teams}
+## **Lunatic Labs Teams**
 
 ![][image36]
 
-### **SkillBuilder/Rubricapp** {#skillbuilder/rubricapp}
+### **SkillBuilder/Rubricapp** 
 
 * **GitHub:** [https://github.com/Lunatic-Labs/rubricapp](https://github.com/Lunatic-Labs/rubricapp)  
 * **About:** A web application for evaluating students' professional skills, such as teamwork and communication. The purpose of the SkillBuilder application is to allow instructors to assess teams of students in real-time using research-based or custom rubrics. Instructors can email students their results and download the data for analysis.  
@@ -1282,7 +1282,7 @@ It allows administrators to:
 
 ### **![][image37]**
 
-### **L.U.K.E.** {#l.u.k.e.}
+### **L.U.K.E.**
 
 * **GitHub:** [https://github.com/Lunatic-Labs/Kiosk](https://github.com/Lunatic-Labs/Kiosk)  
 * **About:** L.U.K.E. is a dynamic, multi-screen kiosk designed to inform and engage. From answering visitor questions to providing fun, interactive experiences, this cutting-edge system showcases the power of technology in enhancing campus navigation and exploration.  
@@ -1297,7 +1297,7 @@ It allows administrators to:
 
 ### 
 
-### **Wind Tunnel** {#wind-tunnel}
+### **Wind Tunnel** 
 
 * **GitHub:** [https://github.com/Lunatic-Labs/Wind-Tunnel](https://github.com/Lunatic-Labs/Wind-Tunnel)  
 * **About:** Wind Tunnel provides researchers and students with intuitive, real-time visualizations of aerodynamic data from wind tunnel experiments. This software streamlines the data collection and analysis process, making interpreting and understanding experimental results easier.  
@@ -1307,7 +1307,7 @@ It allows administrators to:
 
 ### **![][image38]**
 
-### **Pointless** {#pointless}
+### **Pointless**
 
 * **GitHub:** [https://github.com/Lunatic-Labs/pointless-project](https://github.com/Lunatic-Labs/pointless-project)  
 * **About:** The point(less) of the Pointless Project is to create a compelling, puzzle-filled challenge inspired by the Synacor Challenge, but targeted at a pre-college audience. The goal is to allow the School of Computing (SoC) to engage potential students while selecting a college by providing opportunities to remain in contact, encourage curiosity, and engage in creative problem solving while learning about computing and the SoC.  
@@ -1317,7 +1317,7 @@ It allows administrators to:
 
 ### **![Ella&\#39;s House logo][image39]**
 
-### **Ella’s House** {#ella’s-house}
+### **Ella’s House** 
 
 * **GitHub:** [https://github.com/Lunatic-Labs/EllasHouse](https://github.com/Lunatic-Labs/EllasHouse)  
 * **About:** Ella’s House is a text-based game application that showcases a pregnant college student navigating through life and surviving big events through adulthood and issues with motherhood.   
@@ -1325,9 +1325,9 @@ It allows administrators to:
 * HTML/JavaScript for website organization and layout  
 * C++ for the text-based puzzle game implementation
 
-## **Technical Review**  {#technical-review}
+## **Technical Review** 
 
-### **1\. Purpose** {#1.-purpose-10}
+### **1\. Purpose**
 
 The purpose of a technical review is to evaluate and validate the design, implementation, or architecture of a software feature. 
 
@@ -1335,11 +1335,11 @@ It ensures that the solution is technically sound, meets project requirements, a
 
 Technical reviews help in catching issues early, improving design quality, and encouraging shared understanding among team members.
 
-### **2\. Scope** {#2.-scope-9}
+### **2\. Scope** 
 
 This process applies to any major component, feature, or architectural change that may impact system performance, maintainability, scalability, or integration with other parts of the project. It includes code walkthroughs, design document reviews, and pre-deployment validations.
 
-### **3\. Responsibilities** {#3.-responsibilities-4}
+### **3\. Responsibilities** 
 
 Presenters
 
@@ -1360,19 +1360,19 @@ Audience
 * Suggest improvements, ask for clarification where needed, and provide constructive feedback.  
 * Verify that appropriate tests and documentation are planned or already in place.
 
-## **Usage of AI**  {#usage-of-ai}
+## **Usage of AI**
 
-### **1\. Purpose** {#1.-purpose-11}
+### **1\. Purpose** 
 
 Integrating AI into the development workflow is to enhance productivity and provide intelligent support for coding and documentation. 
 
 AI tools can assist developers in writing cleaner code, debugging faster, and generating relevant documentation and insights.
 
-### **2\. Scope** {#2.-scope-10}
+### **2\. Scope** 
 
 This section applies to all students and team members who use AI tools for development purposes. It includes AI-assisted code generation, documentation, project management automation, and other productivity tools.
 
-### **3\. Procedure:** {#3.-procedure:}
+### **3\. Procedure:** 
 
 * Tools like GitHub Copilot, ChatGPT, or Tabnine can assist in writing functions, algorithms, and boilerplate code. They can also help interpret errors, suggest fixes, or recommend better practices.
 
@@ -1389,7 +1389,7 @@ Recommended Tools:
 * Deepseek  
 * Claude
 
-## **Additional Resources** {#additional-resources}
+## **Additional Resources** 
 
 * GitHub Docs: [https://docs.github.com/](https://docs.github.com/)  
 * Codecademy Git Course: [https://www.codecademy.com/learn/learn-git](https://www.codecademy.com/learn/learn-git)   
