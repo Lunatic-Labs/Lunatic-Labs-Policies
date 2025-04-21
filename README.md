@@ -377,12 +377,16 @@ This platform is important for all software developers to create their projects.
 * Once signed in, you will be taken to your Atlassian dashboard.  
 * Click on the Jira Software option among the available products.  
 * Click on the Create Project button.
+<img width="232" alt="Screenshot 2025-04-21 at 4 32 13 PM" src="https://github.com/user-attachments/assets/56039c69-d69e-4885-93e3-c0ed042e8069" />
 
-![][image4]
 
-* Select a project template \- Scrum and provide a meaningful project name![][image5]  
+* Select a project template \- Scrum and provide a meaningful project name!
+<img width="371" alt="Screenshot 2025-04-21 at 4 32 59 PM" src="https://github.com/user-attachments/assets/8702cc1d-c38d-42b7-923c-0737f306122b" />
+
 * Once your project is created, invite members by entering their email addresses.  
 * Familiarize yourself with the board layout. Common columns include Backlog, In Progress, Review, and Done.
+<img width="714" alt="Screenshot 2025-04-21 at 4 33 22 PM" src="https://github.com/user-attachments/assets/8f1a762d-5671-4b8e-b10d-a1cfbd14ad4d" />
+
 
 ## **Time Management** 
 
@@ -431,22 +435,26 @@ Time management at Lunatic Labs includes logging in hours, using time effectivel
 ## **Logging Time on Jira**
 
 1. Go to Apps \-\> Timesheet  
-   ![][image6]  
-2. Go to Calendar  
-   ![][image7]  
+<img width="466" alt="Screenshot 2025-04-21 at 4 34 07 PM" src="https://github.com/user-attachments/assets/3b893f1e-cdde-4132-8791-77f9ffc1bdfa" />
+
+2. Go to Calendar
+<img width="454" alt="Screenshot 2025-04-21 at 4 34 33 PM" src="https://github.com/user-attachments/assets/b4f699b8-8b8e-4aad-858d-cd3ae870b31f" />
+
 3. Open the Relevant Issue  
    * Navigate to the specific issue for which you want to log time.  
    * Click on the issue to view its details.  
 4. Locate the Time Tracking Section  
    * On the issue page, look for the "Work Log" section. This is usually found on the right-hand side or within the issue details, depending on your Jira layout.  
 5. Initiate the Log Work Process  
-   * Click the "Log Work" button or the “+” button on the day you have worked.![][image8]  
+   * Click the "Log Work" button or the “+” button on the day you have worked.
+     <img width="865" alt="Screenshot 2025-04-21 at 4 35 07 PM" src="https://github.com/user-attachments/assets/d5002ed2-6d31-43fd-ab4a-cf5ca026868e" />
+
 6. Enter Time Spent  
    * Time Spent: In the pop-up or form that appears, enter the amount of time you spent on the task.  
    * Example formats include “2h 30m”, “1d”, or “45m”.  
    * Date Started: Confirm or adjust the start date/time if necessary. 
+<img width="970" alt="Screenshot 2025-04-21 at 4 35 36 PM" src="https://github.com/user-attachments/assets/1ea0cd98-c50b-422a-84bc-8aab738f989e" />
 
-![][image9]
 
 7. Save Your Work Log  
    * Once you’ve filled in the necessary details, click "Save" or "Log" to record your time entry.  
@@ -454,8 +462,8 @@ Time management at Lunatic Labs includes logging in hours, using time effectivel
 8. Review Your Logged Time  
    * Verify that the logged time is correctly reflected in the issue details.  
    * Each employee working at Lunatic Labs must be able to work about 7 hours every week.
+<img width="290" alt="Screenshot 2025-04-21 at 4 35 56 PM" src="https://github.com/user-attachments/assets/41fa2e2f-3f10-42ce-8d7c-c8a3fcd7c1c7" />
 
-   ![][image10]
 
 ## **Sprint Planning** 
 
@@ -492,7 +500,8 @@ Here are the specific steps involved in planning a sprint for each week:
 2. Go to the backlog of the Jira board.d  
 3. Click the “create issue” button on either your current sprint or your backlog to create a new issue, and then click on that new issue **or** click on an already existing issue.
 
-   ![][image11]
+<img width="517" alt="Screenshot 2025-04-21 at 4 36 24 PM" src="https://github.com/user-attachments/assets/7751bbd2-8375-488c-8251-8727e6574b1f" />
+
 
 4. Scroll down until you see “Story Point Estimate” under “Details”. Besides, it should say “none”.   
 5. Click on it to enter the number of story points you think the issue should be worth.  
@@ -500,16 +509,21 @@ Here are the specific steps involved in planning a sprint for each week:
 2. If a user story cannot be completed within one week, break it into smaller, manageable tasks.  
 3. Prioritize the issues in your Backlog.  What’s most important to work on next?  
    * Review all issues and determine which are most important to work on next.  
-   * Rank tasks based on importance.![][image12]  
+   * Rank tasks based on importance.
+
+    <img width="726" alt="Screenshot 2025-04-21 at 4 36 42 PM" src="https://github.com/user-attachments/assets/1395a881-901e-4c22-a162-5c7bf2efdd3a" />
+
 4. Assign Tasks to Team Members  
    * Ensure each team member is assigned at least one issue they commit to completing during the sprint.  
    * Tasks should be small and clear enough to guarantee completion within the sprint.
 
-   ![][image13]![][image14]
+   <img width="1102" alt="Screenshot 2025-04-21 at 4 37 13 PM" src="https://github.com/user-attachments/assets/0eb72b0c-5f6e-4b8a-aac7-05a409a2f499" />
+
 
 5. Tasks may include learning activities (ex., completing a tutorial or experimenting in a sandbox environment) to better understand the tools, language, or code base.  
    * After completing the learning activity, it is suggested that you implement what you learned into future code for your projects.   
-     ![][image15]  
+     <img width="443" alt="Screenshot 2025-04-21 at 4 37 35 PM" src="https://github.com/user-attachments/assets/c77505ca-a303-44c5-bcc0-adbb3e123e01" />
+
 6. Begin the Sprint  
    * Once all tasks are assigned and prioritized, officially start the new sprint.  
    * Use Jira to track progress throughout the week.
@@ -596,7 +610,8 @@ This SOP applies to all team members contributing to a project via GitHub. It in
 
 1. **Create a GitHub Account:**  
    * Sign up at [https://github.com](https://github.com) if you don’t already have an account.  
-     ![][image16]  
+     <img width="825" alt="Screenshot 2025-04-21 at 4 38 00 PM" src="https://github.com/user-attachments/assets/4ff1f3bb-c681-4d99-af5d-51740758eca1" />
+
 2. **Request Repository Access:**  
    * The team lead or repository owner must invite new contributors.  
 3. **Configure Git Locally:**  
@@ -647,10 +662,13 @@ If you don’t want temporary commits cluttering your history, use git stash and
 To do a work-in-progress commit in GitHub, follow these steps:
 
 * Go to the page of the repository you're working on.  
-* Click on the file you want to edit, or click the **"Add file"** button.![][image17]  
+* Click on the file you want to edit, or click the **"Add file"** button.
+  <img width="1031" alt="Screenshot 2025-04-21 at 4 38 46 PM" src="https://github.com/user-attachments/assets/aeddd238-59d3-4020-81ee-e676a55b9bee" />
 * Click on the pencil icon in the upper right corner to edit it and make the necessary changes.  
-* Scroll down to the **"Commit changes"** section.![][image18]  
-* In the **"Commit message"** box, enter your descriptive message about your progress.![][image19]  
+* Scroll down to the **"Commit changes"** section.
+  <img width="1198" alt="Screenshot 2025-04-21 at 4 39 20 PM" src="https://github.com/user-attachments/assets/cd31a6f7-5832-4b69-ba89-35b67588444b" />
+* In the **"Commit message"** box, enter your descriptive message about your progress.
+  <img width="587" alt="Screenshot 2025-04-21 at 4 39 46 PM" src="https://github.com/user-attachments/assets/439e7d63-89b2-4dd6-838c-a4ffd9dcbc0a" />
 * Select **"Commit directly to the main branch"** or **"Create a new branch for this commit and start a pull request"**.  
 * Click **“Commit changes”**
 
@@ -661,7 +679,8 @@ After committing, you should push your committed changes to the remote repositor
 Here are the steps:
 
 1. Navigate to the GitHub repository.  
-2. Click **"New Pull Request"** and select the correct branches.![][image20]![][image21]  
+2. Click **"New Pull Request"** and select the correct branches.
+   <img width="909" alt="Screenshot 2025-04-21 at 4 40 41 PM" src="https://github.com/user-attachments/assets/8ae526cb-2eb2-4a9f-8d15-2927cd533b7a" />
 3. Add a descriptive title and detailed description of your changes.  
 4. Assign reviewers and request feedback.  
 5. Submit the PR and wait for approval.
@@ -804,10 +823,11 @@ This process applies to all code changes that require integration into the main 
   * use git push on your remote terminal to push onto GitHub  
 * **Create a Pull Request (PR):**  
   Open a PR with a clear title and a detailed description that explains what changes have been made and the rationale behind them.  
-  ![][image22]  
-  Click Create Pull Request Button  
-  ![][image23]  
-  Example of what a Pull Request page should look like
+  <img width="989" alt="Screenshot 2025-04-21 at 4 42 34 PM" src="https://github.com/user-attachments/assets/7b6abf17-5a25-486e-b41a-d3640dc8fbf2" />
+                    Click Create Pull Request Button
+  
+  <img width="912" alt="Screenshot 2025-04-21 at 4 42 52 PM" src="https://github.com/user-attachments/assets/78766de7-a8e3-4529-9c1c-99661a860c55" />
+                    Example of what a Pull Request page should look like
 
 
 **4.2 Assign Reviewers**
@@ -815,13 +835,14 @@ This process applies to all code changes that require integration into the main 
 * **Select Reviewers:**  
   Assign team members who are knowledgeable about the affected modules or features.  
     
-                                       ![][image24]  
-                                               Example of assigning reviewers
+<img width="363" alt="Screenshot 2025-04-21 at 4 43 22 PM" src="https://github.com/user-attachments/assets/d86a8c87-354b-4992-b75e-249686e1b27c" />
+
+                    Example of assigning reviewers
 
 
-![][image25]
+<img width="499" alt="Screenshot 2025-04-21 at 4 43 48 PM" src="https://github.com/user-attachments/assets/778ac656-f9c2-4387-9eb6-5eff482b21ed" />
 
-Example of Selected Reviewers 
+                    Example of Selected Reviewers 
 
 * **Notify the Team:**  
   Ensure that reviewers are promptly informed via the appropriate communication channels (e.g., Slack, email).
@@ -831,13 +852,12 @@ Example of Selected Reviewers
 * **Examine the Diff:**  
   Review the changes line by line using your code review tool (e.g., GitHub, GitLab, Bitbucket).
 
-![][image26]
+<img width="863" alt="Screenshot 2025-04-21 at 4 44 38 PM" src="https://github.com/user-attachments/assets/e0d7432a-91cf-48c6-a3bb-8209367e6d9f" />
 
-Go to Files Changed tab to see all changes made
-
-![][image27]
-
-Example of examining changes (green is for the new updated lines of code and red is for the deleted lines of code)
+                   Go to Files Changed tab to see all changes made
+                   
+<img width="1001" alt="Screenshot 2025-04-21 at 4 44 52 PM" src="https://github.com/user-attachments/assets/20843f04-7393-4ba3-ba1f-4a11a5b5dd15" />
+                  Example of examining changes (green is for the new updated lines of code and red is for the deleted lines of code)
 
 * **Evaluate Quality:**  
   * Ensure adherence to coding standards and best practices.  
@@ -878,8 +898,8 @@ Benefits:
   Provide actionable recommendations or code examples where necessary.  
 * **Maintain a Positive Tone:**  
   Balance critique with positive feedback to reinforce good practices.  
-  ![][image28]  
-  Example of using inline comments
+  <img width="940" alt="Screenshot 2025-04-21 at 4 45 21 PM" src="https://github.com/user-attachments/assets/30082ddd-fa6a-4a0b-b0ac-1a6f4e5cd75f" />
+               Example of using inline comments
 
 
 **4.6 Developer Response**
@@ -912,20 +932,24 @@ This SOP shall be reviewed annually or as needed to reflect changes in processes
 All updates must be documented in the revision history and approved by the designated authority. 
 
 * **Address Feedback:**  
-  Review the comments, ask questions for clarification if needed, and make necessary changes.  
-  ![][image29]  
-  If everything functions well, reviewers can type “LGTM\!”  
+  Review the comment
+s, ask questions for clarification if needed, and make necessary changes.  
+  <img width="411" alt="Screenshot 2025-04-21 at 4 45 46 PM" src="https://github.com/user-attachments/assets/28e971fb-ba5d-4034-87ae-c3ecdb45d80a" /> 
+                If everything functions well, reviewers can type “LGTM\!”  
 * **Update the PR:**  
-  Push new commits to the branch to address the review comments.![][image30]
+  Push new commits to the branch to address the review comments.
+  <img width="469" alt="Screenshot 2025-04-21 at 4 46 17 PM" src="https://github.com/user-attachments/assets/bde466f1-4434-4307-be98-e89729056d92" />
+
 
 ### **6\. Final Approval** 
 
 * **Re-Review:**  
   The reviewer(s) check the updated code to ensure that all concerns have been addressed.  
 * **Approve or Request Further Changes:**  
-  Approve the PR once satisfied or request additional modifications if necessary.![][image31]![][image32]
+  Approve the PR once satisfied or request additional modifications if necessary.
+  <img width="1039" alt="Screenshot 2025-04-21 at 4 47 25 PM" src="https://github.com/user-attachments/assets/c26318ae-6b8f-47c7-8e2d-d472e9044233" />
 
-Approvals are indicated by the check mark
+                Approvals are indicated by the check mark
 
 ### **7\. Merge the Code** 
 
@@ -934,13 +958,11 @@ Approvals are indicated by the check mark
   * git merge \[branch\], git rebase or git pull —rebase, etc.   
 * **Close the PR:**  
   Once merged, close the PR and update the main repository accordingly.  
-  ![][image33]
-
+  <img width="689" alt="Screenshot 2025-04-21 at 4 47 42 PM" src="https://github.com/user-attachments/assets/8e418ff0-20ed-4045-9b4f-e22ed5d12942" />
         After approval, let supervisor know when to merge
 
-![][image34]
-
-Confirmation that a PR has been merged and closed
+<img width="1034" alt="Screenshot 2025-04-21 at 4 47 53 PM" src="https://github.com/user-attachments/assets/68998f44-1a31-4070-9b6a-30a6f42146d0" />
+        Confirmation that a PR has been merged and closed
 
 ### **8\. Post-Merge Activities** 
 
@@ -1115,8 +1137,9 @@ Miscellaneous
 4. Use tools like Lucidchart, Draw.io, PlantUML, or Visio.  
 5. Focus is on how users interact with the software project and its system  
 6. Details of layout, navigation, functionality, and specific design considerations.  
-   ![][image35]  
-   UML Diagram from L.U.K.E.  
+   <img width="757" alt="Screenshot 2025-04-21 at 4 48 40 PM" src="https://github.com/user-attachments/assets/e1b3b3e7-2112-40a4-8e09-7a69ab904cfe" />
+  
+             UML Diagram from L.U.K.E.  
    
 
 **3.8 Readability and Accessibility Best Practices**
@@ -1272,7 +1295,7 @@ It allows administrators to:
 
 ## **Lunatic Labs Teams**
 
-![][image36]
+<img width="416" alt="Screenshot 2025-04-21 at 4 49 06 PM" src="https://github.com/user-attachments/assets/436b73e0-e4fa-49b7-8493-dc43a03f8653" />
 
 ### **SkillBuilder/Rubricapp** 
 
@@ -1283,7 +1306,8 @@ It allows administrators to:
   * Backend: Python Flask, SQL Server  
   * Redis Server and Docker for running the frontend and backend
 
-### **![][image37]**
+
+<img width="627" alt="Screenshot 2025-04-21 at 4 49 27 PM" src="https://github.com/user-attachments/assets/b60ddae2-6820-4393-aa12-1620e50db36a" />
 
 ### **L.U.K.E.**
 
@@ -1298,7 +1322,7 @@ It allows administrators to:
 * A multi-outlet extension cord  
 * A metal frame
 
-### 
+
 
 ### **Wind Tunnel** 
 
@@ -1308,7 +1332,8 @@ It allows administrators to:
   * Python for data visualization, testing interfaces, and user-friendly interfaces  
   * Direct integration with Keysight DAQ970A hardware
 
-### **![][image38]**
+
+<img width="211" alt="Screenshot 2025-04-21 at 4 50 02 PM" src="https://github.com/user-attachments/assets/f948366a-8bd0-4f4b-a078-e03f6b9c4d34" />
 
 ### **Pointless**
 
@@ -1318,7 +1343,8 @@ It allows administrators to:
 * HTML/JavaScript/CSS for website organization and layout  
 * C++ for the puzzle game programs
 
-### **![Ella&\#39;s House logo][image39]**
+
+<img width="379" alt="Screenshot 2025-04-21 at 4 50 17 PM" src="https://github.com/user-attachments/assets/3cdff4d9-ab85-4018-abdb-f9ea5da7e3d7" />
 
 ### **Ella’s House** 
 
