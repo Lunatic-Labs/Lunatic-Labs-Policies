@@ -249,18 +249,21 @@ All team members must promptly and professionally communicate issues, questions,
 * When ready for review, move to “In Review” and request feedback from a teammate.  
 * After approval, move to “Done”.
 
-![][image1]
+<img width="1411" alt="Screenshot 2025-04-21 at 4 30 09 PM" src="https://github.com/user-attachments/assets/bf82d886-3511-4b74-95c9-04c1e906ab79" />
+
 
 **GitHub Logs**
 
 * Document changes with clear and descriptive commit messages explaining what, how, and why the update was made.  
 * Be specific about what you changed in the repo, and also explain how and why you changed or created a feature and fixed a bug. An example photo from GitHub is placed below:
 
-![][image2]
+<img width="424" alt="Screenshot 2025-04-21 at 4 30 40 PM" src="https://github.com/user-attachments/assets/f64dfa47-f3ed-4fb5-a687-b908f8651b42" />
+
 
 * This can be done in multiple ways, one of these being to commit comments.
 
-  ![][image3]
+<img width="669" alt="Screenshot 2025-04-21 at 4 31 16 PM" src="https://github.com/user-attachments/assets/835f934a-067c-42b3-b0f5-184a63168d58" />
+
 
 **Emails**
 
