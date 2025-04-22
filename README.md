@@ -438,7 +438,7 @@ Time management at Lunatic Labs includes logging in hours, using time effectivel
    <img width="166" alt="Screenshot 2025-04-21 at 4 34 07 PM" src="https://github.com/user-attachments/assets/3b893f1e-cdde-4132-8791-77f9ffc1bdfa" />
 
 2. Go to Calendar
-   <img width="294" alt="Screenshot 2025-04-21 at 4 34 33 PM" src="https://github.com/user-attachments/assets/b4f699b8-8b8e-4aad-858d-cd3ae870b31f" />
+   <img width="314" alt="Screenshot 2025-04-21 at 4 34 33 PM" src="https://github.com/user-attachments/assets/b4f699b8-8b8e-4aad-858d-cd3ae870b31f" />
 
 3. Open the Relevant Issue  
    * Navigate to the specific issue for which you want to log time.  
@@ -499,7 +499,7 @@ Here are the specific steps involved in planning a sprint for each week:
 1. Go to your project’s Jira board.  
 2. Go to the backlog of the Jira board.d  
 3. Click the “create issue” button on either your current sprint or your backlog to create a new issue, and then click on that new issue **or** click on an already existing issue.
-   <img width="217" alt="Screenshot 2025-04-21 at 4 36 24 PM" src="https://github.com/user-attachments/assets/7751bbd2-8375-488c-8251-8727e6574b1f" />
+   <img width="257" alt="Screenshot 2025-04-21 at 4 36 24 PM" src="https://github.com/user-attachments/assets/7751bbd2-8375-488c-8251-8727e6574b1f" />
 
 
 4. Scroll down until you see “Story Point Estimate” under “Details”. Besides, it should say “none”.   
@@ -833,10 +833,12 @@ This process applies to all code changes that require integration into the main 
   Assign team members who are knowledgeable about the affected modules or features.  
     
   <img width="263" alt="Screenshot 2025-04-21 at 4 43 22 PM" src="https://github.com/user-attachments/assets/d86a8c87-354b-4992-b75e-249686e1b27c" />
-   Example of assigning reviewers
+
+  Example of assigning reviewers
 
 
   <img width="380" alt="Screenshot 2025-04-21 at 4 43 48 PM" src="https://github.com/user-attachments/assets/778ac656-f9c2-4387-9eb6-5eff482b21ed" />
+
    Example of Selected Reviewers 
 
 * **Notify the Team:**  
@@ -928,6 +930,7 @@ All updates must be documented in the revision history and approved by the desig
 * **Address Feedback:**  
   Review the comments, ask questions for clarification if needed, and make necessary changes.  
   <img width="311" alt="Screenshot 2025-04-21 at 4 45 46 PM" src="https://github.com/user-attachments/assets/28e971fb-ba5d-4034-87ae-c3ecdb45d80a" /> 
+
   If everything functions well, reviewers can type “LGTM\!”  
 * **Update the PR:**  
   Push new commits to the branch to address the review comments.
@@ -951,6 +954,7 @@ All updates must be documented in the revision history and approved by the desig
 * **Close the PR:**  
   Once merged, close the PR and update the main repository accordingly.  
   <img width="459" alt="Screenshot 2025-04-21 at 4 47 42 PM" src="https://github.com/user-attachments/assets/8e418ff0-20ed-4045-9b4f-e22ed5d12942" />
+
   After approval, let supervisor know when to merge
 
 <img width="834" alt="Screenshot 2025-04-21 at 4 47 53 PM" src="https://github.com/user-attachments/assets/68998f44-1a31-4070-9b6a-30a6f42146d0" />
@@ -1130,7 +1134,8 @@ Miscellaneous
 5. Focus is on how users interact with the software project and its system  
 6. Details of layout, navigation, functionality, and specific design considerations.  
    <img width="427" alt="Screenshot 2025-04-21 at 4 48 40 PM" src="https://github.com/user-attachments/assets/e1b3b3e7-2112-40a4-8e09-7a69ab904cfe" />
-    UML Diagram from L.U.K.E.  
+
+   UML Diagram from L.U.K.E.  
    
 
 **3.8 Readability and Accessibility Best Practices**
