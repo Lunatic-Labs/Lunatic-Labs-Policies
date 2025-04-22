@@ -377,15 +377,15 @@ This platform is important for all software developers to create their projects.
 * Once signed in, you will be taken to your Atlassian dashboard.  
 * Click on the Jira Software option among the available products.  
 * Click on the Create Project button.
-<img width="72" alt="Screenshot 2025-04-21 at 4 32 13 PM" src="https://github.com/user-attachments/assets/56039c69-d69e-4885-93e3-c0ed042e8069" />
+  <img width="102" alt="Screenshot 2025-04-21 at 4 32 13 PM" src="https://github.com/user-attachments/assets/56039c69-d69e-4885-93e3-c0ed042e8069" />
 
 
 * Select a project template \- Scrum and provide a meaningful project name!
-<img width="271" alt="Screenshot 2025-04-21 at 4 32 59 PM" src="https://github.com/user-attachments/assets/8702cc1d-c38d-42b7-923c-0737f306122b" />
+  <img width="271" alt="Screenshot 2025-04-21 at 4 32 59 PM" src="https://github.com/user-attachments/assets/8702cc1d-c38d-42b7-923c-0737f306122b" />
 
 * Once your project is created, invite members by entering their email addresses.  
 * Familiarize yourself with the board layout. Common columns include Backlog, In Progress, Review, and Done.
-<img width="614" alt="Screenshot 2025-04-21 at 4 33 22 PM" src="https://github.com/user-attachments/assets/8f1a762d-5671-4b8e-b10d-a1cfbd14ad4d" />
+  <img width="614" alt="Screenshot 2025-04-21 at 4 33 22 PM" src="https://github.com/user-attachments/assets/8f1a762d-5671-4b8e-b10d-a1cfbd14ad4d" />
 
 
 ## **Time Management** 
@@ -824,6 +824,7 @@ This process applies to all code changes that require integration into the main 
    Click Create Pull Request Button
   
   <img width="822" alt="Screenshot 2025-04-21 at 4 42 52 PM" src="https://github.com/user-attachments/assets/78766de7-a8e3-4529-9c1c-99661a860c55" />
+
    Example of what a Pull Request page should look like
 
 
