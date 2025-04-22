@@ -435,10 +435,10 @@ Time management at Lunatic Labs includes logging in hours, using time effectivel
 ## **Logging Time on Jira**
 
 1. Go to Apps \-\> Timesheet  
-<img width="166" alt="Screenshot 2025-04-21 at 4 34 07 PM" src="https://github.com/user-attachments/assets/3b893f1e-cdde-4132-8791-77f9ffc1bdfa" />
+   <img width="166" alt="Screenshot 2025-04-21 at 4 34 07 PM" src="https://github.com/user-attachments/assets/3b893f1e-cdde-4132-8791-77f9ffc1bdfa" />
 
 2. Go to Calendar
-<img width="294" alt="Screenshot 2025-04-21 at 4 34 33 PM" src="https://github.com/user-attachments/assets/b4f699b8-8b8e-4aad-858d-cd3ae870b31f" />
+   <img width="294" alt="Screenshot 2025-04-21 at 4 34 33 PM" src="https://github.com/user-attachments/assets/b4f699b8-8b8e-4aad-858d-cd3ae870b31f" />
 
 3. Open the Relevant Issue  
    * Navigate to the specific issue for which you want to log time.  
@@ -447,13 +447,13 @@ Time management at Lunatic Labs includes logging in hours, using time effectivel
    * On the issue page, look for the "Work Log" section. This is usually found on the right-hand side or within the issue details, depending on your Jira layout.  
 5. Initiate the Log Work Process  
    * Click the "Log Work" button or the “+” button on the day you have worked.
-     <img width="865" alt="Screenshot 2025-04-21 at 4 35 07 PM" src="https://github.com/user-attachments/assets/d5002ed2-6d31-43fd-ab4a-cf5ca026868e" />
+   <img width="865" alt="Screenshot 2025-04-21 at 4 35 07 PM" src="https://github.com/user-attachments/assets/d5002ed2-6d31-43fd-ab4a-cf5ca026868e" />
 
 6. Enter Time Spent  
    * Time Spent: In the pop-up or form that appears, enter the amount of time you spent on the task.  
    * Example formats include “2h 30m”, “1d”, or “45m”.  
    * Date Started: Confirm or adjust the start date/time if necessary. 
-<img width="870" alt="Screenshot 2025-04-21 at 4 35 36 PM" src="https://github.com/user-attachments/assets/1ea0cd98-c50b-422a-84bc-8aab738f989e" />
+   <img width="870" alt="Screenshot 2025-04-21 at 4 35 36 PM" src="https://github.com/user-attachments/assets/1ea0cd98-c50b-422a-84bc-8aab738f989e" />
 
 
 7. Save Your Work Log  
@@ -462,7 +462,7 @@ Time management at Lunatic Labs includes logging in hours, using time effectivel
 8. Review Your Logged Time  
    * Verify that the logged time is correctly reflected in the issue details.  
    * Each employee working at Lunatic Labs must be able to work about 7 hours every week.
-<img width="250" alt="Screenshot 2025-04-21 at 4 35 56 PM" src="https://github.com/user-attachments/assets/41fa2e2f-3f10-42ce-8d7c-c8a3fcd7c1c7" />
+    <img width="250" alt="Screenshot 2025-04-21 at 4 35 56 PM" src="https://github.com/user-attachments/assets/41fa2e2f-3f10-42ce-8d7c-c8a3fcd7c1c7" />
 
 
 ## **Sprint Planning** 
@@ -499,8 +499,7 @@ Here are the specific steps involved in planning a sprint for each week:
 1. Go to your project’s Jira board.  
 2. Go to the backlog of the Jira board.d  
 3. Click the “create issue” button on either your current sprint or your backlog to create a new issue, and then click on that new issue **or** click on an already existing issue.
-
-<img width="217" alt="Screenshot 2025-04-21 at 4 36 24 PM" src="https://github.com/user-attachments/assets/7751bbd2-8375-488c-8251-8727e6574b1f" />
+   <img width="217" alt="Screenshot 2025-04-21 at 4 36 24 PM" src="https://github.com/user-attachments/assets/7751bbd2-8375-488c-8251-8727e6574b1f" />
 
 
 4. Scroll down until you see “Story Point Estimate” under “Details”. Besides, it should say “none”.   
@@ -510,14 +509,12 @@ Here are the specific steps involved in planning a sprint for each week:
 3. Prioritize the issues in your Backlog.  What’s most important to work on next?  
    * Review all issues and determine which are most important to work on next.  
    * Rank tasks based on importance.
-
     <img width="426" alt="Screenshot 2025-04-21 at 4 36 42 PM" src="https://github.com/user-attachments/assets/1395a881-901e-4c22-a162-5c7bf2efdd3a" />
 
 4. Assign Tasks to Team Members  
    * Ensure each team member is assigned at least one issue they commit to completing during the sprint.  
    * Tasks should be small and clear enough to guarantee completion within the sprint.
-
-   <img width="702" alt="Screenshot 2025-04-21 at 4 37 13 PM" src="https://github.com/user-attachments/assets/0eb72b0c-5f6e-4b8a-aac7-05a409a2f499" />
+    <img width="702" alt="Screenshot 2025-04-21 at 4 37 13 PM" src="https://github.com/user-attachments/assets/0eb72b0c-5f6e-4b8a-aac7-05a409a2f499" />
 
 
 5. Tasks may include learning activities (ex., completing a tutorial or experimenting in a sandbox environment) to better understand the tools, language, or code base.  
@@ -824,10 +821,10 @@ This process applies to all code changes that require integration into the main 
 * **Create a Pull Request (PR):**  
   Open a PR with a clear title and a detailed description that explains what changes have been made and the rationale behind them.  
   <img width="989" alt="Screenshot 2025-04-21 at 4 42 34 PM" src="https://github.com/user-attachments/assets/7b6abf17-5a25-486e-b41a-d3640dc8fbf2" />
-                    Click Create Pull Request Button
+   Click Create Pull Request Button
   
   <img width="822" alt="Screenshot 2025-04-21 at 4 42 52 PM" src="https://github.com/user-attachments/assets/78766de7-a8e3-4529-9c1c-99661a860c55" />
-                    Example of what a Pull Request page should look like
+   Example of what a Pull Request page should look like
 
 
 **4.2 Assign Reviewers**
@@ -835,14 +832,12 @@ This process applies to all code changes that require integration into the main 
 * **Select Reviewers:**  
   Assign team members who are knowledgeable about the affected modules or features.  
     
-<img width="263" alt="Screenshot 2025-04-21 at 4 43 22 PM" src="https://github.com/user-attachments/assets/d86a8c87-354b-4992-b75e-249686e1b27c" />
+  <img width="263" alt="Screenshot 2025-04-21 at 4 43 22 PM" src="https://github.com/user-attachments/assets/d86a8c87-354b-4992-b75e-249686e1b27c" />
+   Example of assigning reviewers
 
-                    Example of assigning reviewers
 
-
-<img width="380" alt="Screenshot 2025-04-21 at 4 43 48 PM" src="https://github.com/user-attachments/assets/778ac656-f9c2-4387-9eb6-5eff482b21ed" />
-
-                    Example of Selected Reviewers 
+  <img width="380" alt="Screenshot 2025-04-21 at 4 43 48 PM" src="https://github.com/user-attachments/assets/778ac656-f9c2-4387-9eb6-5eff482b21ed" />
+   Example of Selected Reviewers 
 
 * **Notify the Team:**  
   Ensure that reviewers are promptly informed via the appropriate communication channels (e.g., Slack, email).
@@ -852,12 +847,11 @@ This process applies to all code changes that require integration into the main 
 * **Examine the Diff:**  
   Review the changes line by line using your code review tool (e.g., GitHub, GitLab, Bitbucket).
 
-<img width="563" alt="Screenshot 2025-04-21 at 4 44 38 PM" src="https://github.com/user-attachments/assets/e0d7432a-91cf-48c6-a3bb-8209367e6d9f" />
-
-                   Go to Files Changed tab to see all changes made
+   <img width="563" alt="Screenshot 2025-04-21 at 4 44 38 PM" src="https://github.com/user-attachments/assets/e0d7432a-91cf-48c6-a3bb-8209367e6d9f" />
+   Go to Files Changed tab to see all changes made
                    
-<img width="901" alt="Screenshot 2025-04-21 at 4 44 52 PM" src="https://github.com/user-attachments/assets/20843f04-7393-4ba3-ba1f-4a11a5b5dd15" />
-                  Example of examining changes (green is for the new updated lines of code and red is for the deleted lines of code)
+   <img width="901" alt="Screenshot 2025-04-21 at 4 44 52 PM" src="https://github.com/user-attachments/assets/20843f04-7393-4ba3-ba1f-4a11a5b5dd15" />
+   Example of examining changes (green is for the new updated lines of code and red is for the deleted lines of code)
 
 * **Evaluate Quality:**  
   * Ensure adherence to coding standards and best practices.  
@@ -899,7 +893,7 @@ Benefits:
 * **Maintain a Positive Tone:**  
   Balance critique with positive feedback to reinforce good practices.  
   <img width="940" alt="Screenshot 2025-04-21 at 4 45 21 PM" src="https://github.com/user-attachments/assets/30082ddd-fa6a-4a0b-b0ac-1a6f4e5cd75f" />
-               Example of using inline comments
+   Example of using inline comments
 
 
 **4.6 Developer Response**
@@ -932,8 +926,7 @@ This SOP shall be reviewed annually or as needed to reflect changes in processes
 All updates must be documented in the revision history and approved by the designated authority. 
 
 * **Address Feedback:**  
-  Review the comment
-s, ask questions for clarification if needed, and make necessary changes.  
+  Review the comments, ask questions for clarification if needed, and make necessary changes.  
   <img width="311" alt="Screenshot 2025-04-21 at 4 45 46 PM" src="https://github.com/user-attachments/assets/28e971fb-ba5d-4034-87ae-c3ecdb45d80a" /> 
   If everything functions well, reviewers can type “LGTM\!”  
 * **Update the PR:**  
@@ -961,7 +954,7 @@ s, ask questions for clarification if needed, and make necessary changes.
   After approval, let supervisor know when to merge
 
 <img width="834" alt="Screenshot 2025-04-21 at 4 47 53 PM" src="https://github.com/user-attachments/assets/68998f44-1a31-4070-9b6a-30a6f42146d0" />
-Confirmation that a PR has been merged and closed
+  Confirmation that a PR has been merged and closed
 
 ### **8\. Post-Merge Activities** 
 
@@ -1293,7 +1286,7 @@ It allows administrators to:
 
 ## **Lunatic Labs Teams**
 
-<img width="186" alt="Screenshot 2025-04-21 at 4 49 06 PM" src="https://github.com/user-attachments/assets/436b73e0-e4fa-49b7-8493-dc43a03f8653" />
+<img width="239" alt="Screenshot 2025-04-21 at 4 49 06 PM" src="https://github.com/user-attachments/assets/436b73e0-e4fa-49b7-8493-dc43a03f8653" />
 
 ### **SkillBuilder/Rubricapp** 
 
@@ -1303,6 +1296,8 @@ It allows administrators to:
   * Frontend: JavaScript and React.js  
   * Backend: Python Flask, SQL Server  
   * Redis Server and Docker for running the frontend and backend
+
+
 
 
 <img width="407" alt="Screenshot 2025-04-21 at 4 49 27 PM" src="https://github.com/user-attachments/assets/b60ddae2-6820-4393-aa12-1620e50db36a" />
@@ -1322,6 +1317,8 @@ It allows administrators to:
 
 
 
+
+
 ### **Wind Tunnel** 
 
 * **GitHub:** [https://github.com/Lunatic-Labs/Wind-Tunnel](https://github.com/Lunatic-Labs/Wind-Tunnel)  
@@ -1329,6 +1326,8 @@ It allows administrators to:
 * **Materials Used:**  
   * Python for data visualization, testing interfaces, and user-friendly interfaces  
   * Direct integration with Keysight DAQ970A hardware
+
+
 
 
 <img width="111" alt="Screenshot 2025-04-21 at 4 50 02 PM" src="https://github.com/user-attachments/assets/f948366a-8bd0-4f4b-a078-e03f6b9c4d34" />
@@ -1340,6 +1339,8 @@ It allows administrators to:
 * **Materials Used:**  
 * HTML/JavaScript/CSS for website organization and layout  
 * C++ for the puzzle game programs
+
+
 
 
 <img width="239" alt="Screenshot 2025-04-21 at 4 50 17 PM" src="https://github.com/user-attachments/assets/3cdff4d9-ab85-4018-abdb-f9ea5da7e3d7" />
