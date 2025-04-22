@@ -150,8 +150,6 @@
 
 [3\. Responsibilities	42](#3-responsibilities-4)
 
-[Audience	42](#heading=h.6p2sttqy2wnd)
-
 [**Usage of AI	42**](#usage-of-ai)
 
 [1\. Purpose	43](#1-purpose-11)
