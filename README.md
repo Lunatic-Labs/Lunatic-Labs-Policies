@@ -438,28 +438,29 @@ Time management at Lunatic Labs includes logging in hours, using time effectivel
    <img width="166" alt="Screenshot 2025-04-21 at 4 34 07 PM" src="https://github.com/user-attachments/assets/3b893f1e-cdde-4132-8791-77f9ffc1bdfa" />
 
 2. Go to Calendar
+   
    <img width="314" alt="Screenshot 2025-04-21 at 4 34 33 PM" src="https://github.com/user-attachments/assets/b4f699b8-8b8e-4aad-858d-cd3ae870b31f" />
 
-3. Open the Relevant Issue  
+4. Open the Relevant Issue  
    * Navigate to the specific issue for which you want to log time.  
    * Click on the issue to view its details.  
-4. Locate the Time Tracking Section  
+5. Locate the Time Tracking Section  
    * On the issue page, look for the "Work Log" section. This is usually found on the right-hand side or within the issue details, depending on your Jira layout.  
-5. Initiate the Log Work Process  
+6. Initiate the Log Work Process  
    * Click the "Log Work" button or the “+” button on the day you have worked.
    <img width="865" alt="Screenshot 2025-04-21 at 4 35 07 PM" src="https://github.com/user-attachments/assets/d5002ed2-6d31-43fd-ab4a-cf5ca026868e" />
 
-6. Enter Time Spent  
+7. Enter Time Spent  
    * Time Spent: In the pop-up or form that appears, enter the amount of time you spent on the task.  
    * Example formats include “2h 30m”, “1d”, or “45m”.  
    * Date Started: Confirm or adjust the start date/time if necessary. 
    <img width="870" alt="Screenshot 2025-04-21 at 4 35 36 PM" src="https://github.com/user-attachments/assets/1ea0cd98-c50b-422a-84bc-8aab738f989e" />
 
 
-7. Save Your Work Log  
+8. Save Your Work Log  
    * Once you’ve filled in the necessary details, click "Save" or "Log" to record your time entry.  
    * Your logged time should now appear in the issue’s work log or time-tracking section.  
-8. Review Your Logged Time  
+9. Review Your Logged Time  
    * Verify that the logged time is correctly reflected in the issue details.  
    * Each employee working at Lunatic Labs must be able to work about 7 hours every week.
     <img width="250" alt="Screenshot 2025-04-21 at 4 35 56 PM" src="https://github.com/user-attachments/assets/41fa2e2f-3f10-42ce-8d7c-c8a3fcd7c1c7" />
