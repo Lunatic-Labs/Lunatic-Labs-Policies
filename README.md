@@ -435,10 +435,10 @@ Time management at Lunatic Labs includes logging in hours, using time effectivel
 ## **Logging Time on Jira**
 
 1. Go to Apps \-\> Timesheet  
-<img width="366" alt="Screenshot 2025-04-21 at 4 34 07 PM" src="https://github.com/user-attachments/assets/3b893f1e-cdde-4132-8791-77f9ffc1bdfa" />
+<img width="166" alt="Screenshot 2025-04-21 at 4 34 07 PM" src="https://github.com/user-attachments/assets/3b893f1e-cdde-4132-8791-77f9ffc1bdfa" />
 
 2. Go to Calendar
-<img width="354" alt="Screenshot 2025-04-21 at 4 34 33 PM" src="https://github.com/user-attachments/assets/b4f699b8-8b8e-4aad-858d-cd3ae870b31f" />
+<img width="294" alt="Screenshot 2025-04-21 at 4 34 33 PM" src="https://github.com/user-attachments/assets/b4f699b8-8b8e-4aad-858d-cd3ae870b31f" />
 
 3. Open the Relevant Issue  
    * Navigate to the specific issue for which you want to log time.  
@@ -500,7 +500,7 @@ Here are the specific steps involved in planning a sprint for each week:
 2. Go to the backlog of the Jira board.d  
 3. Click the “create issue” button on either your current sprint or your backlog to create a new issue, and then click on that new issue **or** click on an already existing issue.
 
-<img width="417" alt="Screenshot 2025-04-21 at 4 36 24 PM" src="https://github.com/user-attachments/assets/7751bbd2-8375-488c-8251-8727e6574b1f" />
+<img width="217" alt="Screenshot 2025-04-21 at 4 36 24 PM" src="https://github.com/user-attachments/assets/7751bbd2-8375-488c-8251-8727e6574b1f" />
 
 
 4. Scroll down until you see “Story Point Estimate” under “Details”. Besides, it should say “none”.   
@@ -511,13 +511,13 @@ Here are the specific steps involved in planning a sprint for each week:
    * Review all issues and determine which are most important to work on next.  
    * Rank tasks based on importance.
 
-    <img width="626" alt="Screenshot 2025-04-21 at 4 36 42 PM" src="https://github.com/user-attachments/assets/1395a881-901e-4c22-a162-5c7bf2efdd3a" />
+    <img width="426" alt="Screenshot 2025-04-21 at 4 36 42 PM" src="https://github.com/user-attachments/assets/1395a881-901e-4c22-a162-5c7bf2efdd3a" />
 
 4. Assign Tasks to Team Members  
    * Ensure each team member is assigned at least one issue they commit to completing during the sprint.  
    * Tasks should be small and clear enough to guarantee completion within the sprint.
 
-   <img width="902" alt="Screenshot 2025-04-21 at 4 37 13 PM" src="https://github.com/user-attachments/assets/0eb72b0c-5f6e-4b8a-aac7-05a409a2f499" />
+   <img width="702" alt="Screenshot 2025-04-21 at 4 37 13 PM" src="https://github.com/user-attachments/assets/0eb72b0c-5f6e-4b8a-aac7-05a409a2f499" />
 
 
 5. Tasks may include learning activities (ex., completing a tutorial or experimenting in a sandbox environment) to better understand the tools, language, or code base.  
@@ -610,7 +610,7 @@ This SOP applies to all team members contributing to a project via GitHub. It in
 
 1. **Create a GitHub Account:**  
    * Sign up at [https://github.com](https://github.com) if you don’t already have an account.  
-     <img width="725" alt="Screenshot 2025-04-21 at 4 38 00 PM" src="https://github.com/user-attachments/assets/4ff1f3bb-c681-4d99-af5d-51740758eca1" />
+     <img width="505" alt="Screenshot 2025-04-21 at 4 38 00 PM" src="https://github.com/user-attachments/assets/4ff1f3bb-c681-4d99-af5d-51740758eca1" />
 
 2. **Request Repository Access:**  
    * The team lead or repository owner must invite new contributors.  
@@ -852,7 +852,7 @@ This process applies to all code changes that require integration into the main 
 * **Examine the Diff:**  
   Review the changes line by line using your code review tool (e.g., GitHub, GitLab, Bitbucket).
 
-<img width="763" alt="Screenshot 2025-04-21 at 4 44 38 PM" src="https://github.com/user-attachments/assets/e0d7432a-91cf-48c6-a3bb-8209367e6d9f" />
+<img width="563" alt="Screenshot 2025-04-21 at 4 44 38 PM" src="https://github.com/user-attachments/assets/e0d7432a-91cf-48c6-a3bb-8209367e6d9f" />
 
                    Go to Files Changed tab to see all changes made
                    
@@ -947,7 +947,7 @@ s, ask questions for clarification if needed, and make necessary changes.
   The reviewer(s) check the updated code to ensure that all concerns have been addressed.  
 * **Approve or Request Further Changes:**  
   Approve the PR once satisfied or request additional modifications if necessary.
-  <img width="939" alt="Screenshot 2025-04-21 at 4 47 25 PM" src="https://github.com/user-attachments/assets/c26318ae-6b8f-47c7-8e2d-d472e9044233" />
+  <img width="739" alt="Screenshot 2025-04-21 at 4 47 25 PM" src="https://github.com/user-attachments/assets/c26318ae-6b8f-47c7-8e2d-d472e9044233" />
   Approvals are indicated by the check mark
 
 ### **7\. Merge the Code** 
@@ -957,10 +957,10 @@ s, ask questions for clarification if needed, and make necessary changes.
   * git merge \[branch\], git rebase or git pull —rebase, etc.   
 * **Close the PR:**  
   Once merged, close the PR and update the main repository accordingly.  
-  <img width="589" alt="Screenshot 2025-04-21 at 4 47 42 PM" src="https://github.com/user-attachments/assets/8e418ff0-20ed-4045-9b4f-e22ed5d12942" />
+  <img width="459" alt="Screenshot 2025-04-21 at 4 47 42 PM" src="https://github.com/user-attachments/assets/8e418ff0-20ed-4045-9b4f-e22ed5d12942" />
   After approval, let supervisor know when to merge
 
-<img width="934" alt="Screenshot 2025-04-21 at 4 47 53 PM" src="https://github.com/user-attachments/assets/68998f44-1a31-4070-9b6a-30a6f42146d0" />
+<img width="834" alt="Screenshot 2025-04-21 at 4 47 53 PM" src="https://github.com/user-attachments/assets/68998f44-1a31-4070-9b6a-30a6f42146d0" />
 Confirmation that a PR has been merged and closed
 
 ### **8\. Post-Merge Activities** 
@@ -1136,7 +1136,7 @@ Miscellaneous
 4. Use tools like Lucidchart, Draw.io, PlantUML, or Visio.  
 5. Focus is on how users interact with the software project and its system  
 6. Details of layout, navigation, functionality, and specific design considerations.  
-   <img width="627" alt="Screenshot 2025-04-21 at 4 48 40 PM" src="https://github.com/user-attachments/assets/e1b3b3e7-2112-40a4-8e09-7a69ab904cfe" />
+   <img width="427" alt="Screenshot 2025-04-21 at 4 48 40 PM" src="https://github.com/user-attachments/assets/e1b3b3e7-2112-40a4-8e09-7a69ab904cfe" />
     UML Diagram from L.U.K.E.  
    
 
@@ -1293,7 +1293,7 @@ It allows administrators to:
 
 ## **Lunatic Labs Teams**
 
-<img width="316" alt="Screenshot 2025-04-21 at 4 49 06 PM" src="https://github.com/user-attachments/assets/436b73e0-e4fa-49b7-8493-dc43a03f8653" />
+<img width="186" alt="Screenshot 2025-04-21 at 4 49 06 PM" src="https://github.com/user-attachments/assets/436b73e0-e4fa-49b7-8493-dc43a03f8653" />
 
 ### **SkillBuilder/Rubricapp** 
 
@@ -1305,7 +1305,7 @@ It allows administrators to:
   * Redis Server and Docker for running the frontend and backend
 
 
-<img width="527" alt="Screenshot 2025-04-21 at 4 49 27 PM" src="https://github.com/user-attachments/assets/b60ddae2-6820-4393-aa12-1620e50db36a" />
+<img width="407" alt="Screenshot 2025-04-21 at 4 49 27 PM" src="https://github.com/user-attachments/assets/b60ddae2-6820-4393-aa12-1620e50db36a" />
 
 ### **L.U.K.E.**
 
@@ -1342,7 +1342,7 @@ It allows administrators to:
 * C++ for the puzzle game programs
 
 
-<img width="279" alt="Screenshot 2025-04-21 at 4 50 17 PM" src="https://github.com/user-attachments/assets/3cdff4d9-ab85-4018-abdb-f9ea5da7e3d7" />
+<img width="239" alt="Screenshot 2025-04-21 at 4 50 17 PM" src="https://github.com/user-attachments/assets/3cdff4d9-ab85-4018-abdb-f9ea5da7e3d7" />
 
 ### **Ella’s House** 
 
