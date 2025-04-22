@@ -500,11 +500,12 @@ Here are the specific steps involved in planning a sprint for each week:
 1. Go to your project’s Jira board.  
 2. Go to the backlog of the Jira board.d  
 3. Click the “create issue” button on either your current sprint or your backlog to create a new issue, and then click on that new issue **or** click on an already existing issue.
+
    <img width="257" alt="Screenshot 2025-04-21 at 4 36 24 PM" src="https://github.com/user-attachments/assets/7751bbd2-8375-488c-8251-8727e6574b1f" />
 
 
-4. Scroll down until you see “Story Point Estimate” under “Details”. Besides, it should say “none”.   
-5. Click on it to enter the number of story points you think the issue should be worth.  
+5. Scroll down until you see “Story Point Estimate” under “Details”. Besides, it should say “none”.   
+6. Click on it to enter the number of story points you think the issue should be worth.  
    * Story Points should follow the Fibonacci sequence (1, 2, 3, 5\. Any higher, and the issue will be split into smaller ones.  
 2. If a user story cannot be completed within one week, break it into smaller, manageable tasks.  
 3. Prioritize the issues in your Backlog.  What’s most important to work on next?  
@@ -839,7 +840,9 @@ This process applies to all code changes that require integration into the main 
   Example of assigning reviewers
 
 
+
   <img width="380" alt="Screenshot 2025-04-21 at 4 43 48 PM" src="https://github.com/user-attachments/assets/778ac656-f9c2-4387-9eb6-5eff482b21ed" />
+
 
    Example of Selected Reviewers 
 
@@ -965,7 +968,7 @@ All updates must be documented in the revision history and approved by the desig
 
 <img width="834" alt="Screenshot 2025-04-21 at 4 47 53 PM" src="https://github.com/user-attachments/assets/68998f44-1a31-4070-9b6a-30a6f42146d0" />
   
-  Confirmation that a PR has been merged and closed
+   Confirmation that a PR has been merged and closed
 
 ### **8\. Post-Merge Activities** 
 
