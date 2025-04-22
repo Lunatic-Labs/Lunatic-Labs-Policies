@@ -257,7 +257,7 @@ All team members must promptly and professionally communicate issues, questions,
 * Document changes with clear and descriptive commit messages explaining what, how, and why the update was made.  
 * Be specific about what you changed in the repo, and also explain how and why you changed or created a feature and fixed a bug. An example photo from GitHub is placed below:
 
-<img width="424" alt="Screenshot 2025-04-21 at 4 30 40 PM" src="https://github.com/user-attachments/assets/f64dfa47-f3ed-4fb5-a687-b908f8651b42" />
+<img width="224" alt="Screenshot 2025-04-21 at 4 30 40 PM" src="https://github.com/user-attachments/assets/f64dfa47-f3ed-4fb5-a687-b908f8651b42" />
 
 
 * This can be done in multiple ways, one of these being to commit comments.
