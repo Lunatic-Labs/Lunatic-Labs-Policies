@@ -850,10 +850,12 @@ This process applies to all code changes that require integration into the main 
   Review the changes line by line using your code review tool (e.g., GitHub, GitLab, Bitbucket).
 
    <img width="563" alt="Screenshot 2025-04-21 at 4 44 38 PM" src="https://github.com/user-attachments/assets/e0d7432a-91cf-48c6-a3bb-8209367e6d9f" />
-   Go to Files Changed tab to see all changes made
+
+    Go to Files Changed tab to see all changes made
                    
    <img width="901" alt="Screenshot 2025-04-21 at 4 44 52 PM" src="https://github.com/user-attachments/assets/20843f04-7393-4ba3-ba1f-4a11a5b5dd15" />
-   Example of examining changes (green is for the new updated lines of code and red is for the deleted lines of code)
+
+    Example of examining changes (green is for the new updated lines of code and red is for the deleted lines of code)
 
 * **Evaluate Quality:**  
   * Ensure adherence to coding standards and best practices.  
@@ -934,7 +936,8 @@ All updates must be documented in the revision history and approved by the desig
   If everything functions well, reviewers can type “LGTM\!”  
 * **Update the PR:**  
   Push new commits to the branch to address the review comments.
-  <img width="369" alt="Screenshot 2025-04-21 at 4 46 17 PM" src="https://github.com/user-attachments/assets/bde466f1-4434-4307-be98-e89729056d92" />
+
+  <img width="409" alt="Screenshot 2025-04-21 at 4 46 17 PM" src="https://github.com/user-attachments/assets/bde466f1-4434-4307-be98-e89729056d92" />
 
 
 ### **6\. Final Approval** 
@@ -944,6 +947,7 @@ All updates must be documented in the revision history and approved by the desig
 * **Approve or Request Further Changes:**  
   Approve the PR once satisfied or request additional modifications if necessary.
   <img width="739" alt="Screenshot 2025-04-21 at 4 47 25 PM" src="https://github.com/user-attachments/assets/c26318ae-6b8f-47c7-8e2d-d472e9044233" />
+
   Approvals are indicated by the check mark
 
 ### **7\. Merge the Code** 
@@ -958,6 +962,7 @@ All updates must be documented in the revision history and approved by the desig
   After approval, let supervisor know when to merge
 
 <img width="834" alt="Screenshot 2025-04-21 at 4 47 53 PM" src="https://github.com/user-attachments/assets/68998f44-1a31-4070-9b6a-30a6f42146d0" />
+  
   Confirmation that a PR has been merged and closed
 
 ### **8\. Post-Merge Activities** 
